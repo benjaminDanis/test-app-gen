@@ -1,0 +1,50 @@
+{
+  "extends": ["next/core-web-vitals", "prettier", "plugin:react/recommended"],
+  "plugins": ["react"],
+  "globals": {
+    "__ace": "readonly",
+    "utag_data": "readonly",
+    "Promise": "readonly",
+    "Set": "readonly",
+    "Map": "readonly",
+    "Uint8Array": "readonly",
+    "globalThis": "readonly",
+    "jest": "readonly",
+    "describe": "readonly",
+    "beforeAll": "readonly",
+    "beforeEach": "readonly",
+    "afterEach": "readonly",
+    "it": "readonly",
+    "expect": "readonly"
+  },
+  "overrides": [
+    {
+      "files": ["*.spec.js", "*.test.js"],
+      "plugins": ["jest"],
+      "extends": ["plugin:jest/recommended"]
+    }
+  ],
+  "rules": {
+    "import/order": [
+      "error",
+      {
+        "newlines-between": "always",
+        "groups": [["builtin"], ["external"], ["parent", "internal", "sibling", "index", "unknown"]],
+        "alphabetize": {
+          "order": "asc",
+          "caseInsensitive": true
+        }
+      }
+    ],
+    "react/react-in-jsx-scope": "off",
+    "no-unused-vars": "warn",
+    "no-undef": "error",
+    "quotes": [
+      "error",
+      "single",
+      {
+        "allowTemplateLiterals": true
+      }
+    ]
+  }
+}

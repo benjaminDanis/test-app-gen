@@ -1,0 +1,23 @@
+# This workflow will enforce guidelines on PR metadata
+#
+# the jobs are:
+#   `lint_pr`: enforces the conventional commit naming convention for PR titles
+
+name: PR Lint
+
+on: workflow_call
+
+jobs:
+  lint_pr:
+    name: Enforce conventional commit PR titles
+    runs-on: [self-hosted, dj-ubuntu-2004-latest, ARM64]
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: semantic-pull-request
+        uses: amannn/action-semantic-pull-request@v5.5.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

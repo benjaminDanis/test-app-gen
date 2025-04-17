@@ -1,0 +1,29 @@
+:root {
+  --breakpoint-16u: 81.25rem; // 1320px
+  --breakpoint-16u-inner-limit: 82.438rem; // 1319px
+  --max-width-16u-no-margin: 78.5rem; // 1256px
+
+  --breakpoint-12u: 61.25rem; // 980px
+  --breakpoint-12u-inner-limit: 61.188rem; // 979px
+  --max-width-12u-no-margin: 58.75rem; // 940px
+
+  --breakpoint-8u: 40rem; // 640px
+  --breakpoint-8u-inner-limit: 39.938rem; // 639px
+  --max-width-8u-no-margin: 38.75rem; // 620px
+
+  --breakpoint-4u: 23.438rem; // 375px
+  --breakpoint-4u-inner-limit: 23.375rem; // 374px
+  --max-width-4u-no-margin: 20.938rem; // 335px
+}
+
+$breakpoint-16u: 81.25rem; // 1300px
+$breakpoint-16u-inner-limit: 81.188rem; // 1299px
+
+$breakpoint-12u: 61.25rem; // 980px
+$breakpoint-12u-inner-limit: 61.188rem; // 979px
+
+$breakpoint-8u: 40rem; // 640px
+$breakpoint-8u-inner-limit: 39.938rem; // 639px
+
+$breakpoint-4u: 23.438rem; // 375px
+$breakpoint-4u-inner-limit: 23.375rem; // 374px

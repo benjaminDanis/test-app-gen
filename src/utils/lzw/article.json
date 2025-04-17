@@ -1,0 +1,616 @@
+[
+  {
+    "type": "paragraph",
+    "content": [
+      { "text": "WASHINGTON—President Biden is likely to decide later this summer whether ", "properties": {} },
+      {
+        "type": "link",
+        "id": "i1-SB11854193889278254401904588588253273435898",
+        "uri": "https://www.wsj.com/articles/government-losses-on-student-debt-climb-above-100-billion-amid-pause-on-payments-11642029455?mod=article_inline",
+        "variant": "external",
+        "icon": "none",
+        "link_type": "EXTERNAL",
+        "ref": "i1-SB11854193889278254401904588588253273435898",
+        "text": "to partially forgive student-loan debt",
+        "properties": {}
+      },
+      {
+        "text": " for millions of borrowers, according to administration officials and others familiar with the matter, after the president said more than a month ago that ",
+        "properties": {}
+      },
+      {
+        "type": "link",
+        "id": "i2-SB11854193889278254401904588588253273435898",
+        "uri": "https://www.wsj.com/articles/biden-says-he-is-considering-canceling-some-student-loan-debt-11651161126?mod=article_inline",
+        "variant": "external",
+        "icon": "none",
+        "link_type": "EXTERNAL",
+        "ref": "i2-SB11854193889278254401904588588253273435898",
+        "text": "he would weigh in on the issue",
+        "properties": {}
+      },
+      { "text": " in the next couple of weeks.", "properties": {} }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "The officials said Mr. Biden is likely to announce his plans in July or August, closer to when the pandemic-related ",
+        "properties": {}
+      },
+      {
+        "type": "link",
+        "id": "i3-SB11854193889278254401904588588253273435898",
+        "uri": "https://www.wsj.com/articles/when-student-loan-debt-paused-these-borrowers-kept-paying-11651582849?mod=article_inline",
+        "variant": "external",
+        "icon": "none",
+        "link_type": "EXTERNAL",
+        "ref": "i3-SB11854193889278254401904588588253273435898",
+        "text": "pause in federal student loan payments",
+        "properties": {}
+      },
+      {
+        "text": " is scheduled to lapse, as the president and his senior advisers continue to weigh the political and economic fallout of any such move. The Biden administration earlier this year extended the pause, which has been in effect since March 2020, until Sept. 1.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "The delay means the roughly 40 million people who owe about $1.6 trillion in federal student debt may have to wait to find out whether they may see all or part of their loans erased.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "The White House declined to comment on the internal discussions. “The administration is continuing to assess options for cancellation and no decision has been made,” a White House official said.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "Mr. Biden has long been skeptical of using his executive authority to wipe away student loan debt. Officials said he remains concerned about the possible effects the move could have on ",
+        "properties": {}
+      },
+      {
+        "type": "link",
+        "id": "i4-SB11854193889278254401904588588253273435898",
+        "uri": "https://www.wsj.com/articles/us-inflation-consumer-price-index-april-2022-11652218520?mod=article_inline",
+        "variant": "external",
+        "icon": "none",
+        "link_type": "EXTERNAL",
+        "ref": "i4-SB11854193889278254401904588588253273435898",
+        "text": "record inflation",
+        "properties": {}
+      },
+      {
+        "text": ", cautious about doing anything that could be perceived as contributing to high prices. Some people close to Mr. Biden said he had nonetheless warmed to the idea in recent months as advocates inside and outside the administration made impassioned pleas for him to take action.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "video",
+    "id": "media-8",
+    "media_type": "VIDEO",
+    "slug": "video-827E5E98-5DBE-46E9-B087-0BFA8D0744B4",
+    "name": "827E5E98-5DBE-46E9-B087-0BFA8D0744B4",
+    "width": null,
+    "height": null,
+    "size_code": null,
+    "alternate_text": null,
+    "credit": null,
+    "caption": "Student-loan interest rates have risen to their highest in years. WSJ’s Dion Rabouin explains how they’re calculated and why this year’s rates are so high after touching a record low in 2020. Illustration: David Fang",
+    "link_ref": null,
+    "hed": "Related Video",
+    "alt_images": null,
+    "title": "Related Video",
+    "api": "http://www.wsj.com/api-video/get_video_info.asp",
+    "preloaded": null,
+    "properties": {
+      "responsive": { "layout": "inline" },
+      "scope": { "scope": ["web", "mobileapps"] },
+      "suppressheadline": "false"
+    },
+    "video_service_props": {
+      "format": "standard",
+      "atmospheric": "false",
+      "caption": "Student-loan interest rates have risen to their highest in years. WSJ’s Dion Rabouin explains how they’re calculated and why this year’s rates are so high after touching a record low in 2020. Illustration: David Fang",
+      "name": "Student Loans Are Their Most Expensive in Years. Here's Why.",
+      "jsonLD": {
+        "type": "VideoObject",
+        "contentUrl": null,
+        "context": "https://schema.org",
+        "description": "Student-loan interest rates have risen to their highest in years. WSJ’s Dion Rabouin explains how they’re calculated and why this year’s rates are so high after touching a record low in 2020. Illustration: David Fang",
+        "duration": "PT2M48S",
+        "embedUrl": "https://video-api.wsj.com/api-video/player/v3/iframe.html?guid=827E5E98-5DBE-46E9-B087-0BFA8D0744B4",
+        "name": "Student Loans Are Their Most Expensive in Years. Here's Why.",
+        "thumbnailUrl": "https://images.wsj.net/im-542447?width=1920&height=1080",
+        "uploadDate": "2022-05-11T19:34:00Z"
+      }
+    },
+    "ref": "media-8"
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "Hanging over all of the discussions is November’s midterm elections, in which Democrats are facing the prospect of widespread losses. The president’s advisers are ",
+        "properties": {}
+      },
+      {
+        "type": "link",
+        "id": "i5-SB11854193889278254401904588588253273435898",
+        "uri": "https://www.wsj.com/articles/as-biden-zeroes-in-on-student-loan-forgiveness-decision-voter-anxiety-grows-11653298200?mod=article_inline",
+        "variant": "external",
+        "icon": "none",
+        "link_type": "EXTERNAL",
+        "ref": "i5-SB11854193889278254401904588588253273435898",
+        "text": "weighing the political boost",
+        "properties": {}
+      },
+      {
+        "text": " that could come from forgiving loans among young people and others against the backlash from voters who didn’t go to college, don’t have loans or already paid them off.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "Some Republican lawmakers have accused Democrats of using debt relief as an irresponsible play for votes.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "White House officials have drawn up a range of proposals, officials and others familiar with the matter said, and are waiting on the president to make a final decision. The president’s advisers were hesitant to predict where Mr. Biden might land. But people familiar with the internal discussions said the most likely outcome appeared to be debt forgiveness in the range of $10,000 per borrower. Individuals making less than about $125,000 a year would be eligible for the program, though that figure is in flux, the people said.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "inset",
+    "id": "inset-1",
+    "inset_type": "richtext",
+    "properties": { "responsive": { "layout": "wrap" }, "scope": { "scope": ["web", "mobileapps"] } },
+    "ref": "inset-1",
+    "content": [
+      {
+        "type": "hed",
+        "hed_type": "small-hed",
+        "content": [
+          {
+            "type": "link",
+            "id": "i6-SB11854193889278254401904588588253273435898",
+            "uri": "https://www.wsj.com/articles/the-wsj-guide-to-student-loans-navigating-the-myths-and-misunderstandings-about-college-debt-11647557853",
+            "variant": "external",
+            "icon": "none",
+            "link_type": "EXTERNAL",
+            "ref": "i6-SB11854193889278254401904588588253273435898",
+            "text": "How Are You Paying for School?",
+            "properties": {}
+          }
+        ],
+        "properties": {}
+      },
+      {
+        "type": "image",
+        "id": "media-9",
+        "media_type": "Photo Illustration",
+        "reuse_type": "full",
+        "slug": "loanpromo",
+        "name": "S1-PV545_loanpr_OR_20220520001027.jpg",
+        "width": 1279,
+        "height": 854,
+        "size_code": null,
+        "alternate_text": "image",
+        "credit": null,
+        "caption": null,
+        "link_ref": "https://s.wsj.net/public/resources/documents/the-wsj-guide-to-student-loans.pdf",
+        "hed": null,
+        "alt_images": [
+          {
+            "name": "S1-PV545_loanpr_A_20220520001027.jpg",
+            "link_ref": null,
+            "width": 76,
+            "height": 76,
+            "size_code": "A",
+            "url": "https://images.wsj.net/im-548356/A"
+          },
+          {
+            "name": "S1-PV545_loanpr_C_20220520001027.jpg",
+            "link_ref": null,
+            "width": 167,
+            "height": 94,
+            "size_code": "C",
+            "url": "https://images.wsj.net/im-548356/C"
+          },
+          {
+            "name": "S1-PV545_loanpr_D_20220520001027.jpg",
+            "link_ref": null,
+            "width": 262,
+            "height": 174,
+            "size_code": "D",
+            "url": "https://images.wsj.net/im-548356/D"
+          },
+          {
+            "name": "S1-PV545_loanpr_E_20220520001027.jpg",
+            "link_ref": null,
+            "width": 359,
+            "height": 239,
+            "size_code": "E",
+            "url": "https://images.wsj.net/im-548356/E"
+          },
+          {
+            "name": "S1-PV545_loanpr_G_20220520001027.jpg",
+            "link_ref": null,
+            "width": 553,
+            "height": 369,
+            "size_code": "G",
+            "url": "https://images.wsj.net/im-548356/G"
+          },
+          {
+            "name": "S1-PV545_loanpr_M_20220520001027.jpg",
+            "link_ref": null,
+            "width": 1280,
+            "height": 853,
+            "size_code": "M",
+            "url": "https://images.wsj.net/im-548356/M"
+          }
+        ],
+        "properties": {
+          "responsive": { "layout": "wrap" },
+          "scope": { "scope": ["web", "mobileapps"] },
+          "promotype": "None",
+          "softcrop": "Full Sized Horizontal",
+          "imphotoid": "im-548356",
+          "location": "https://images.wsj.net/im-548356/?size=1.5"
+        },
+        "src": null,
+        "ref": "media-9"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "text": "About 40 million borrowers hold $1.6 trillion in federal student debt, making student-debt forgiveness a potent issue ahead of the 2022 midterm elections. Download free: ",
+            "properties": {}
+          },
+          {
+            "type": "link",
+            "id": "i8-SB11854193889278254401904588588253273435898",
+            "uri": "https://s.wsj.net/public/resources/documents/the-wsj-guide-to-student-loans.pdf",
+            "variant": "external",
+            "icon": "none",
+            "link_type": "EXTERNAL",
+            "ref": "i8-SB11854193889278254401904588588253273435898",
+            "text": "WSJ’s Guide to Student Loans: Navigating the Myths and Misunderstandings About College Debt",
+            "properties": {}
+          }
+        ],
+        "properties": {}
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "Mr. Biden has already ruled out forgiving up to $50,000 in student debt per borrower, the proposal backed by Massachusetts Sen. Elizabeth Warren and other prominent progressive Democrats.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "“I am not considering $50,000 debt reduction. But I’m in the process of taking a hard look at whether or not there…will be additional debt forgiveness, and I’ll have an answer on that in the next couple of weeks,” Mr. Biden told reporters in late April.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "The president’s advisers have discussed other restrictions, including limiting any debt-forgiveness plan to undergraduates or people who attend public universities. Some of Mr. Biden’s advisers have made the case for broad forgiveness, arguing, for example, that it would be a mistake to exclude from the program teachers and others with advanced degrees who typically make little money.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "Another factor complicating the decision: How to implement a large new government program. The Education Department is already burdened with the existing slate of ",
+        "properties": {}
+      },
+      {
+        "type": "link",
+        "id": "i9-SB11854193889278254401904588588253273435898",
+        "uri": "https://www.wsj.com/articles/biden-to-cancel-all-student-debt-from-defunct-corinthian-colleges-11654123168?mod=article_inline",
+        "variant": "external",
+        "icon": "none",
+        "link_type": "EXTERNAL",
+        "ref": "i9-SB11854193889278254401904588588253273435898",
+        "text": "more narrow loan forgiveness programs",
+        "properties": {}
+      },
+      {
+        "text": " for people who work in public service-related jobs or who were defrauded by for-profit schools. A wider loan-forgiveness program could require millions of Americans to file paperwork to the government detailing their income.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "The Education Department has canceled around $25 billion in student loans so far through a piecemeal approach that has focused on borrowers defrauded by for-profit schools, disabled students, and those enrolled in public service loan-forgiveness programs.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "inset",
+    "id": "inset-2",
+    "inset_type": "newsletterinset",
+    "properties": {
+      "newslettername": "Education",
+      "newsletterid": "445",
+      "responsive": { "layout": "wrap" },
+      "scope": { "scope": ["web", "mobileapps"] }
+    },
+    "ref": "inset-2",
+    "data": {
+      "_id": "5f526647d782d55d028ad6e8",
+      "edition": "us_gc",
+      "id": "445",
+      "section": "newsletters",
+      "addLabel": "",
+      "addURL": "",
+      "description": "Select coverage from the WSJ's education bureau on the state of schools and learning, curated by bureau chief Chastity Pratt and sent to you via email.",
+      "imageURL": "",
+      "index": 7,
+      "label": "Education",
+      "node_type": "newsletter",
+      "options": "",
+      "orderAlphabetic": "Education",
+      "previewURL": "https://s.wsj.net/newsletter/wsj_education_CM_preview.html",
+      "subType": "all",
+      "disableSignup": false,
+      "subOnly": false
+    }
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "“If there is a decision to do broad-based [loan forgiveness], obviously that is something that would help a lot of borrowers,” James Kvaal, the No. 2 official at the Education Department, said on Monday at an event hosted by the Bipartisan Policy Center. “At the same time, and I think the students and other advocates of broad-based would tell you, we also need permanent solutions.”",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "Some economists warn that student debt cancellation would exacerbate price pressures. Inflation is near four-decade highs, with an 8.3% annual rate as of April. The Labor Department will release its May consumer-price index report on Friday. ",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "The Committee for a Responsible Federal Budget, an independent nonpartisan nonprofit, estimated that canceling all federal student debt would increase household consumption by $70 billion to $95 billion and raise inflation by 0.37 to 0.5 percentage points, based on the Federal Reserve’s preferred measurement, in the year after payments resumed. That assumes that the majority of increased consumer spending leads to price increases rather than increased output, which would blunt inflation. ",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      { "text": "The White House ", "properties": {} },
+      {
+        "type": "link",
+        "id": "i10-SB11854193889278254401904588588253273435898",
+        "uri": "https://twitter.com/bharatramamurti/status/1532038232325734406",
+        "variant": "external",
+        "icon": "none",
+        "link_type": "EXTERNAL",
+        "ref": "i10-SB11854193889278254401904588588253273435898",
+        "text": "has taken issue",
+        "properties": {}
+      },
+      { "text": " with parts of CRFB’s analysis.", "properties": {} }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "Around 15 million borrowers, more than a third of all federal student loan holders, have $10,000 or less in student debt. If they meet the income requirements set out by the administration, they could have their slates wiped clean. ",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "“The clearest positive effect is if you have $10,000 or less in debt, because you’re out,” said Robert Kelchen, a professor of education policy at the University of Tennessee, Knoxville. But even for those borrowers, the immediate impact on their purchasing power would be relatively subdued: They wouldn’t receive a check for $10,000, but rather would no longer have to make monthly loan payments if and when the current payment pause ends.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "“In the short term, if there is debt cancellation, you’re not really giving people money that they wouldn’t have already had this month,” said Constantine Yannelis, finance professor at the University of Chicago Booth School of Business. ",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "Short-term inflationary effects of student debt cancellation would be particularly hard to parse, economists say, because no one has needed to make payments on federal student loans and interest rates have been set to 0% since March 2020, though a small subset of borrowers has continued to pay.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "That policy saves borrowers around $5 billion in interest each month, according to the Education Department, but some economists have criticized the pause in payments as inflationary. Former Treasury Secretary ",
+        "properties": {}
+      },
+      {
+        "type": "phrase",
+        "phrase_type": "person",
+        "significance": "PassingMention",
+        "ref": "PERSON|Summers, Lawrence",
+        "text": "Lawrence Summers",
+        "properties": {}
+      },
+      {
+        "type": "link",
+        "id": "i11-SB11854193889278254401904588588253273435898",
+        "uri": "https://twitter.com/LHSummers/status/1511424479611826179",
+        "variant": "external",
+        "icon": "none",
+        "link_type": "EXTERNAL",
+        "ref": "i11-SB11854193889278254401904588588253273435898",
+        "text": "called the pause",
+        "properties": {}
+      },
+      { "text": " “inappropriate at a time when the economy is overheated.”", "properties": {} }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "The White House disagrees: Administration economist Jared Bernstein has called the inflationary effects of the pause extremely negligible, and Brian Deese, the head of the National Economic Council, has said the near-term effects on prices are likely to be quite small.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "The Biden administration has justified the pause in payments by pointing to the risk that many borrowers would default if payments were to resume now. The pause has been extended six times, most recently through August. Debt cancellation for borrowers with balances higher than $10,000 would allow them to pay their debt off faster, but in the short term, their situation would remain largely the same. Once the payment pause ends, they could have less disposable income than they have had throughout the pause.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      {
+        "text": "In the long term, however, mass debt cancellation could create real inflationary risks. If borrowers assume that a large share of federal student loans are likely to be forgiven, that in effect increases government spending by turning loans into de facto grants. It could also encourage colleges and universities to continue to raise tuition prices with the expectation that the costs would ultimately not be borne by their students.",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  },
+  {
+    "type": "tagline",
+    "content": [{ "text": "Ken Thomas contributed to this article.", "properties": {} }],
+    "properties": {}
+  },
+  {
+    "type": "inset",
+    "id": "inset-3",
+    "dynamic_inset_properties": {
+      "resolvedInset": {
+        "strippedHTML": "<style data-styled=\"true\" data-styled-version=\"5.1.1\">.bcMPWx{margin:24px 0 0;font:22px/24px 'Escrow Condensed';font-weight:600;}/*!sc*/\n.edition-japan .bcMPWx{font:700 19px/21px 'Hiragino Sans',meiryo,Arial;}/*!sc*/\ndata-styled.g20[id=\"sc-AxjAm\"]{content:\"bcMPWx,\"}/*!sc*/\n.fxWvvr{-webkit-text-decoration:none !important;text-decoration:none !important;display:block;}/*!sc*/\n.fxWvvr:hover *{opacity:0.7;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/\n.fxWvvr:focus{outline:3px solid #0080c3;}/*!sc*/\ndata-styled.g24[id=\"sc-AxhUy\"]{content:\"fxWvvr,\"}/*!sc*/\n.cVmQYF{object-fit:cover;margin-bottom:16px;}/*!sc*/\ndata-styled.g25[id=\"sc-AxgMl\"]{content:\"cVmQYF,\"}/*!sc*/\n.hvJMgY{display:block;font:bold 18px/1 'Escrow Condensed';-webkit-letter-spacing:0px;-moz-letter-spacing:0px;-ms-letter-spacing:0px;letter-spacing:0px;color:#222222;}/*!sc*/\n.edition-japan .hvJMgY{font:400 16px/20px 'Hiragino Sans',meiryo,Arial;}/*!sc*/\ndata-styled.g27[id=\"sc-Axmtr\"]{content:\"hvJMgY,\"}/*!sc*/\n.gmtmqV{box-sizing:border-box;border:solid #cccccc;border-width:1px 0;background-color:#ffffff;}/*!sc*/\n.gmtmqV img{max-width:100%;}/*!sc*/\ndata-styled.g28[id=\"sc-AxmLO\"]{content:\"gmtmqV,\"}/*!sc*/\n.dteCCc{margin:0 auto;}/*!sc*/\n.dteCCc .series-nav__header-object{margin-top:16px;line-height:0;}/*!sc*/\ndata-styled.g29[id=\"sc-fzozJi\"]{content:\"dteCCc,\"}/*!sc*/\n</style>\n<div data-uuid=\"1fbf704877651d629e76befc0ae01dff\"><div id=\"series-nav-zpASJiUL\" class=\"sc-AxmLO gmtmqV series-nav__inset-container\"><style>\n@media(max-width: 639px) {\n.series-nav__4col-only {\ndisplay: none !important;\n}\n}\n\n.media-object.wrap .series-nav__4col-only {\ndisplay: none !important;\n}<!-- -->\n@media(min-width: 640px) {\n.series-nav__2col-only {\ndisplay: none !important;\n}\n}\n\n.media-object.wrap .series-nav__2col-only {\ndisplay: initial !important;\n}<!-- -->\n.series-nav-inset__links-container {\ndisplay: grid;\ngrid-template-columns: 1fr 1fr 1fr 1fr;\ngrid-gap: 32px 16px;\nmargin: 32px 0;\n}\n\n@media(max-width: 639px) {\n.series-nav-inset__links-container {\ngrid-template-columns: 1fr 1fr;\n}\n}\n\n.media-object.wrap .series-nav-inset__links-container {\ngrid-template-columns: 1fr 1fr;\n}<!-- -->\n.series-nav__inset-container-inner {\nmargin: 0 auto;\n}</style><div class=\"series-nav__inset-container-inner\"><div class=\"sc-fzozJi dteCCc\"><h3 class=\"sc-AxjAm bcMPWx\">The New Student Debt Crisis</h3></div><div class=\"series-nav-inset__links-container\"><div class=\"sc-AxhCb eSwYtm series-nav__link-container\"><a class=\"sc-AxhUy fxWvvr series-nav__link-link\" target=\"_top\" href=\"https://www.wsj.com/articles/financially-hobbled-for-life-the-elite-masters-degrees-that-dont-pay-off-11625752773?mod=series_graddebt\"><img src=\"https://images.wsj.net/im-365532/m?width=200&amp;size=1.5\" alt=\"‘Financially Hobbled for Life’: The Elite Master’s Degrees That Don’t Pay Off\" class=\"sc-AxgMl cVmQYF series-nav__4col-only series-nav__link-thumbnail\"/><span class=\"sc-Axmtr hvJMgY series-nav__link-title\">‘Financially Hobbled for Life’: The Elite Master’s Degrees That Don’t Pay Off</span></a></div><div class=\"sc-AxhCb eSwYtm series-nav__link-container\"><a class=\"sc-AxhUy fxWvvr series-nav__link-link\" target=\"_top\" href=\"https://www.wsj.com/articles/baylor-university-college-debt-parent-plus-loans-11634138239?mod=series_graddebt\"><img src=\"https://images.wsj.net/im-415276/m?width=200&amp;size=1.5\" alt=\"How Baylor Steered Lower-Income Parents to Debt They Couldn’t Afford\" class=\"sc-AxgMl cVmQYF series-nav__4col-only series-nav__link-thumbnail\"/><span class=\"sc-Axmtr hvJMgY series-nav__link-title\">How Baylor Steered Lower-Income Parents to Debt They Couldn’t Afford</span></a></div><div class=\"sc-AxhCb eSwYtm series-nav__link-container\"><a class=\"sc-AxhUy fxWvvr series-nav__link-link\" target=\"_top\" href=\"https://www.wsj.com/articles/nyu-college-graduate-parent-student-loans-11639618241?mod=series_graddebt\"><img src=\"https://images.wsj.net/im-452195/m?width=200&amp;size=1.5\" alt=\"NYU Is Top-Ranked—In Loans That Alumni and Parents Struggle to Repay\" class=\"sc-AxgMl cVmQYF series-nav__4col-only series-nav__link-thumbnail\"/><span class=\"sc-Axmtr hvJMgY series-nav__link-title\">NYU Is Top-Ranked—In Loans That Alumni and Parents Struggle to Repay</span></a></div><div class=\"sc-AxhCb eSwYtm series-nav__link-container\"><a class=\"sc-AxhUy fxWvvr series-nav__link-link\" target=\"_top\" href=\"https://www.wsj.com/articles/some-professional-degrees-leave-students-with-high-debt-but-without-high-salaries-11638354602?mod=series_graddebt\"><img src=\"https://images.wsj.net/im-443320/m?width=200&amp;size=1.5\" alt=\"Some Professional Degrees Leave Students With High Debt but Without High Salaries\" class=\"sc-AxgMl cVmQYF series-nav__4col-only series-nav__link-thumbnail\"/><span class=\"sc-Axmtr hvJMgY series-nav__link-title\">Some Professional Degrees Leave Students With High Debt but Without High Salaries</span></a></div><div class=\"sc-AxhCb eSwYtm series-nav__link-container\"><a class=\"sc-AxhUy fxWvvr series-nav__link-link\" target=\"_top\" href=\"https://www.wsj.com/articles/usc-online-social-work-masters-11636435900?mod=series_graddebt\"><img src=\"https://images.wsj.net/im-431117/m?width=200&amp;size=1.5\" alt=\"USC Pushed a $115,000 Online Degree. Graduates Got Low Salaries, Huge Debts.\" class=\"sc-AxgMl cVmQYF series-nav__4col-only series-nav__link-thumbnail\"/><span class=\"sc-Axmtr hvJMgY series-nav__link-title\">USC Pushed a $115,000 Online Degree. Graduates Got Low Salaries, Huge Debts.</span></a></div><div class=\"sc-AxhCb eSwYtm series-nav__link-container\"><a class=\"sc-AxhUy fxWvvr series-nav__link-link\" target=\"_top\" href=\"https://www.wsj.com/articles/law-school-student-debt-low-salaries-university-miami-11627991855?mod=series_graddebt\"><img src=\"https://images.wsj.net/im-379119/m?width=200&amp;size=1.5\" alt=\"Law School Loses Luster as Debts Mount and Salaries Stagnate\" class=\"sc-AxgMl cVmQYF series-nav__4col-only series-nav__link-thumbnail\"/><span class=\"sc-Axmtr hvJMgY series-nav__link-title\">Law School Loses Luster as Debts Mount and Salaries Stagnate</span></a></div><div class=\"sc-AxhCb eSwYtm series-nav__link-container\"><a class=\"sc-AxhUy fxWvvr series-nav__link-link\" target=\"_top\" href=\"https://www.wsj.com/articles/college-university-student-debt-parent-grad-plus-loans-congress-school-borrowing-11638930489?mod=series_graddebt\"><img src=\"https://images.wsj.net/im-447855/m?width=200&amp;size=1.5\" alt=\"Why Washington Won’t Fix Student Debt Plans That Overload Families\" class=\"sc-AxgMl cVmQYF series-nav__4col-only series-nav__link-thumbnail\"/><span class=\"sc-Axmtr hvJMgY series-nav__link-title\">Why Washington Won’t Fix Student Debt Plans That Overload Families</span></a></div><div class=\"sc-AxhCb eSwYtm series-nav__link-container\"><a class=\"sc-AxhUy fxWvvr series-nav__link-link\" target=\"_top\" href=\"https://www.wsj.com/articles/how-your-student-debt-keeps-growingeven-when-you-keep-paying-11640994313?mod=series_graddebt\"><img src=\"https://images.wsj.net/im-460301/m?width=200&amp;size=1.5\" alt=\"Why Student Debt Keeps Growing—Even When Borrowers Keep Paying\" class=\"sc-AxgMl cVmQYF series-nav__4col-only series-nav__link-thumbnail\"/><span class=\"sc-Axmtr hvJMgY series-nav__link-title\">Why Student Debt Keeps Growing—Even When Borrowers Keep Paying</span></a></div></div></div></div></div>\n",
+        "scripts": [
+          "<script>\n(() => {\nfunction waitFor(cb = () => true, options = {}) {const maxTries = options.maxTries || 10;const timeout = options.timeout || 1000;let count = 0;return new Promise((resolve, reject) => {function check() {const value = cb();if (!value) {count++;if (count < maxTries) {setTimeout(check, timeout);} else {reject(`couldn't find a value within ${maxTries} tries`);}} else {resolve(value);}}check();});}\nfunction waitForReact(options = {}) {return waitFor(() => {try {if (window !== top.window) {window.React = top.window.React;window.ReactDOM = top.window.ReactDOM;}} catch (e) {console.log('this is probably amp');}return typeof ReactDOM !== 'undefined' && typeof React !== 'undefined';}, options);}\nwaitForReact().then(() => { /*! For license information please see main.js.LICENSE.txt */\n(()=>{var e={480:(e,t,r)=>{\"use strict\";var n=r(532),i={childContextTypes:!0,contextType:!0,contextTypes:!0,defaultProps:!0,displayName:!0,getDefaultProps:!0,getDerivedStateFromError:!0,getDerivedStateFromProps:!0,mixins:!0,propTypes:!0,type:!0},a={name:!0,length:!0,prototype:!0,caller:!0,callee:!0,arguments:!0,arity:!0},o={$$typeof:!0,compare:!0,defaultProps:!0,displayName:!0,propTypes:!0,type:!0},s={};function c(e){return n.isMemo(e)?o:s[e.$$typeof]||i}s[n.ForwardRef]={$$typeof:!0,render:!0,defaultProps:!0,displayName:!0,propTypes:!0},s[n.Memo]=o;var l=Object.defineProperty,u=Object.getOwnPropertyNames,f=Object.getOwnPropertySymbols,d=Object.getOwnPropertyDescriptor,p=Object.getPrototypeOf,h=Object.prototype;e.exports=function e(t,r,n){if(\"string\"!=typeof r){if(h){var i=p(r);i&&i!==h&&e(t,i,n)}var o=u(r);f&&(o=o.concat(f(r)));for(var s=c(t),m=c(r),g=0;g<o.length;++g){var y=o[g];if(!(a[y]||n&&n[y]||m&&m[y]||s&&s[y])){var v=d(r,y);try{l(t,y,v)}catch(e){}}}}return t}},15:(e,t)=>{\"use strict\";var r=\"function\"==typeof Symbol&&Symbol.for,n=r?Symbol.for(\"react.element\"):60103,i=r?Symbol.for(\"react.portal\"):60106,a=r?Symbol.for(\"react.fragment\"):60107,o=r?Symbol.for(\"react.strict_mode\"):60108,s=r?Symbol.for(\"react.profiler\"):60114,c=r?Symbol.for(\"react.provider\"):60109,l=r?Symbol.for(\"react.context\"):60110,u=r?Symbol.for(\"react.async_mode\"):60111,f=r?Symbol.for(\"react.concurrent_mode\"):60111,d=r?Symbol.for(\"react.forward_ref\"):60112,p=r?Symbol.for(\"react.suspense\"):60113,h=r?Symbol.for(\"react.suspense_list\"):60120,m=r?Symbol.for(\"react.memo\"):60115,g=r?Symbol.for(\"react.lazy\"):60116,y=r?Symbol.for(\"react.block\"):60121,v=r?Symbol.for(\"react.fundamental\"):60117,b=r?Symbol.for(\"react.responder\"):60118,w=r?Symbol.for(\"react.scope\"):60119;function k(e){if(\"object\"==typeof e&&null!==e){var t=e.$$typeof;switch(t){case n:switch(e=e.type){case u:case f:case a:case s:case o:case p:return e;default:switch(e=e&&e.$$typeof){case l:case d:case g:case m:case c:return e;default:return t}}case i:return t}}}function S(e){return k(e)===f}t.AsyncMode=u,t.ConcurrentMode=f,t.ContextConsumer=l,t.ContextProvider=c,t.Element=n,t.ForwardRef=d,t.Fragment=a,t.Lazy=g,t.Memo=m,t.Portal=i,t.Profiler=s,t.StrictMode=o,t.Suspense=p,t.isAsyncMode=function(e){return S(e)||k(e)===u},t.isConcurrentMode=S,t.isContextConsumer=function(e){return k(e)===l},t.isContextProvider=function(e){return k(e)===c},t.isElement=function(e){return\"object\"==typeof e&&null!==e&&e.$$typeof===n},t.isForwardRef=function(e){return k(e)===d},t.isFragment=function(e){return k(e)===a},t.isLazy=function(e){return k(e)===g},t.isMemo=function(e){return k(e)===m},t.isPortal=function(e){return k(e)===i},t.isProfiler=function(e){return k(e)===s},t.isStrictMode=function(e){return k(e)===o},t.isSuspense=function(e){return k(e)===p},t.isValidElementType=function(e){return\"string\"==typeof e||\"function\"==typeof e||e===a||e===f||e===s||e===o||e===p||e===h||\"object\"==typeof e&&null!==e&&(e.$$typeof===g||e.$$typeof===m||e.$$typeof===c||e.$$typeof===l||e.$$typeof===d||e.$$typeof===v||e.$$typeof===b||e.$$typeof===w||e.$$typeof===y)},t.typeOf=k},532:(e,t,r)=>{\"use strict\";e.exports=r(15)},432:e=>{e.exports=function(e,t,r,n){var i=r?r.call(n,e,t):void 0;if(void 0!==i)return!!i;if(e===t)return!0;if(\"object\"!=typeof e||!e||\"object\"!=typeof t||!t)return!1;var a=Object.keys(e),o=Object.keys(t);if(a.length!==o.length)return!1;for(var s=Object.prototype.hasOwnProperty.bind(t),c=0;c<a.length;c++){var l=a[c];if(!s(l))return!1;var u=e[l],f=t[l];if(!1===(i=r?r.call(n,u,f,l):void 0)||void 0===i&&u!==f)return!1}return!0}},39:(e,t,r)=>{\"use strict\";r.r(t),r.d(t,{ServerStyleSheet:()=>He,StyleSheetConsumer:()=>re,StyleSheetContext:()=>te,StyleSheetManager:()=>ce,ThemeConsumer:()=>Ne,ThemeContext:()=>Te,ThemeProvider:()=>ze,__PRIVATE__:()=>Ue,createGlobalStyle:()=>Le,css:()=>ge,default:()=>qe,isStyledComponent:()=>S,keyframes:()=>Ge,useTheme:()=>Be,version:()=>Ve,withTheme:()=>We});var n=r(15),i=r(196),a=r.n(i),o=r(432),s=r.n(o);const c=function(e){function t(e,n,c,l,d){for(var p,h,m,g,w,S=0,x=0,C=0,A=0,j=0,R=0,N=m=p=0,M=0,$=0,D=0,F=0,L=c.length,G=L-1,H=\"\",W=\"\",B=\"\",U=\"\";M<L;){if(h=c.charCodeAt(M),M===G&&0!==x+A+C+S&&(0!==x&&(h=47===x?10:47),A=C=S=0,L++,G++),0===x+A+C+S){if(M===G&&(0<$&&(H=H.replace(f,\"\")),0<H.trim().length)){switch(h){case 32:case 9:case 59:case 13:case 10:break;default:H+=c.charAt(M)}h=59}switch(h){case 123:for(p=(H=H.trim()).charCodeAt(0),m=1,F=++M;M<L;){switch(h=c.charCodeAt(M)){case 123:m++;break;case 125:m--;break;case 47:switch(h=c.charCodeAt(M+1)){case 42:case 47:e:{for(N=M+1;N<G;++N)switch(c.charCodeAt(N)){case 47:if(42===h&&42===c.charCodeAt(N-1)&&M+2!==N){M=N+1;break e}break;case 10:if(47===h){M=N+1;break e}}M=N}}break;case 91:h++;case 40:h++;case 34:case 39:for(;M++<G&&c.charCodeAt(M)!==h;);}if(0===m)break;M++}if(m=c.substring(F,M),0===p&&(p=(H=H.replace(u,\"\").trim()).charCodeAt(0)),64===p){switch(0<$&&(H=H.replace(f,\"\")),h=H.charCodeAt(1)){case 100:case 109:case 115:case 45:$=n;break;default:$=_}if(F=(m=t(n,$,m,h,d+1)).length,0<T&&(w=s(3,m,$=r(_,H,D),n,P,O,F,h,d,l),H=$.join(\"\"),void 0!==w&&0===(F=(m=w.trim()).length)&&(h=0,m=\"\")),0<F)switch(h){case 115:H=H.replace(k,o);case 100:case 109:case 45:m=H+\"{\"+m+\"}\";break;case 107:m=(H=H.replace(y,\"$1 $2\"))+\"{\"+m+\"}\",m=1===E||2===E&&a(\"@\"+m,3)?\"@-webkit-\"+m+\"@\"+m:\"@\"+m;break;default:m=H+m,112===l&&(W+=m,m=\"\")}else m=\"\"}else m=t(n,r(n,H,D),m,l,d+1);B+=m,m=D=$=N=p=0,H=\"\",h=c.charCodeAt(++M);break;case 125:case 59:if(1<(F=(H=(0<$?H.replace(f,\"\"):H).trim()).length))switch(0===N&&(p=H.charCodeAt(0),45===p||96<p&&123>p)&&(F=(H=H.replace(\" \",\":\")).length),0<T&&void 0!==(w=s(1,H,n,e,P,O,W.length,l,d,l))&&0===(F=(H=w.trim()).length)&&(H=\"\\0\\0\"),p=H.charCodeAt(0),h=H.charCodeAt(1),p){case 0:break;case 64:if(105===h||99===h){U+=H+c.charAt(M);break}default:58!==H.charCodeAt(F-1)&&(W+=i(H,p,h,H.charCodeAt(2)))}D=$=N=p=0,H=\"\",h=c.charCodeAt(++M)}}switch(h){case 13:case 10:47===x?x=0:0===1+p&&107!==l&&0<H.length&&($=1,H+=\"\\0\"),0<T*z&&s(0,H,n,e,P,O,W.length,l,d,l),O=1,P++;break;case 59:case 125:if(0===x+A+C+S){O++;break}default:switch(O++,g=c.charAt(M),h){case 9:case 32:if(0===A+S+x)switch(j){case 44:case 58:case 9:case 32:g=\"\";break;default:32!==h&&(g=\" \")}break;case 0:g=\"\\\\0\";break;case 12:g=\"\\\\f\";break;case 11:g=\"\\\\v\";break;case 38:0===A+x+S&&($=D=1,g=\"\\f\"+g);break;case 108:if(0===A+x+S+I&&0<N)switch(M-N){case 2:112===j&&58===c.charCodeAt(M-3)&&(I=j);case 8:111===R&&(I=R)}break;case 58:0===A+x+S&&(N=M);break;case 44:0===x+C+A+S&&($=1,g+=\"\\r\");break;case 34:case 39:0===x&&(A=A===h?0:0===A?h:A);break;case 91:0===A+x+C&&S++;break;case 93:0===A+x+C&&S--;break;case 41:0===A+x+S&&C--;break;case 40:0===A+x+S&&(0===p&&(2*j+3*R==533||(p=1)),C++);break;case 64:0===x+C+A+S+N+m&&(m=1);break;case 42:case 47:if(!(0<A+S+C))switch(x){case 0:switch(2*h+3*c.charCodeAt(M+1)){case 235:x=47;break;case 220:F=M,x=42}break;case 42:47===h&&42===j&&F+2!==M&&(33===c.charCodeAt(F+2)&&(W+=c.substring(F,M+1)),g=\"\",x=0)}}0===x&&(H+=g)}R=j,j=h,M++}if(0<(F=W.length)){if($=n,0<T&&void 0!==(w=s(2,W,$,e,P,O,F,l,d,l))&&0===(W=w).length)return U+W+B;if(W=$.join(\",\")+\"{\"+W+\"}\",0!=E*I){switch(2!==E||a(W,2)||(I=0),I){case 111:W=W.replace(b,\":-moz-$1\")+W;break;case 112:W=W.replace(v,\"::-webkit-input-$1\")+W.replace(v,\"::-moz-$1\")+W.replace(v,\":-ms-input-$1\")+W}I=0}}return U+W+B}function r(e,t,r){var i=t.trim().split(m);t=i;var a=i.length,o=e.length;switch(o){case 0:case 1:var s=0;for(e=0===o?\"\":e[0]+\" \";s<a;++s)t[s]=n(e,t[s],r).trim();break;default:var c=s=0;for(t=[];s<a;++s)for(var l=0;l<o;++l)t[c++]=n(e[l]+\" \",i[s],r).trim()}return t}function n(e,t,r){var n=t.charCodeAt(0);switch(33>n&&(n=(t=t.trim()).charCodeAt(0)),n){case 38:return t.replace(g,\"$1\"+e.trim());case 58:return e.trim()+t.replace(g,\"$1\"+e.trim());default:if(0<1*r&&0<t.indexOf(\"\\f\"))return t.replace(g,(58===e.charCodeAt(0)?\"\":\"$1\")+e.trim())}return e+t}function i(e,t,r,n){var o=e+\";\",s=2*t+3*r+4*n;if(944===s){e=o.indexOf(\":\",9)+1;var c=o.substring(e,o.length-1).trim();return c=o.substring(0,e).trim()+c+\";\",1===E||2===E&&a(c,1)?\"-webkit-\"+c+c:c}if(0===E||2===E&&!a(o,1))return o;switch(s){case 1015:return 97===o.charCodeAt(10)?\"-webkit-\"+o+o:o;case 951:return 116===o.charCodeAt(3)?\"-webkit-\"+o+o:o;case 963:return 110===o.charCodeAt(5)?\"-webkit-\"+o+o:o;case 1009:if(100!==o.charCodeAt(4))break;case 969:case 942:return\"-webkit-\"+o+o;case 978:return\"-webkit-\"+o+\"-moz-\"+o+o;case 1019:case 983:return\"-webkit-\"+o+\"-moz-\"+o+\"-ms-\"+o+o;case 883:if(45===o.charCodeAt(8))return\"-webkit-\"+o+o;if(0<o.indexOf(\"image-set(\",11))return o.replace(j,\"$1-webkit-$2\")+o;break;case 932:if(45===o.charCodeAt(4))switch(o.charCodeAt(5)){case 103:return\"-webkit-box-\"+o.replace(\"-grow\",\"\")+\"-webkit-\"+o+\"-ms-\"+o.replace(\"grow\",\"positive\")+o;case 115:return\"-webkit-\"+o+\"-ms-\"+o.replace(\"shrink\",\"negative\")+o;case 98:return\"-webkit-\"+o+\"-ms-\"+o.replace(\"basis\",\"preferred-size\")+o}return\"-webkit-\"+o+\"-ms-\"+o+o;case 964:return\"-webkit-\"+o+\"-ms-flex-\"+o+o;case 1023:if(99!==o.charCodeAt(8))break;return\"-webkit-box-pack\"+(c=o.substring(o.indexOf(\":\",15)).replace(\"flex-\",\"\").replace(\"space-between\",\"justify\"))+\"-webkit-\"+o+\"-ms-flex-pack\"+c+o;case 1005:return p.test(o)?o.replace(d,\":-webkit-\")+o.replace(d,\":-moz-\")+o:o;case 1e3:switch(t=(c=o.substring(13).trim()).indexOf(\"-\")+1,c.charCodeAt(0)+c.charCodeAt(t)){case 226:c=o.replace(w,\"tb\");break;case 232:c=o.replace(w,\"tb-rl\");break;case 220:c=o.replace(w,\"lr\");break;default:return o}return\"-webkit-\"+o+\"-ms-\"+c+o;case 1017:if(-1===o.indexOf(\"sticky\",9))break;case 975:switch(t=(o=e).length-10,s=(c=(33===o.charCodeAt(t)?o.substring(0,t):o).substring(e.indexOf(\":\",7)+1).trim()).charCodeAt(0)+(0|c.charCodeAt(7))){case 203:if(111>c.charCodeAt(8))break;case 115:o=o.replace(c,\"-webkit-\"+c)+\";\"+o;break;case 207:case 102:o=o.replace(c,\"-webkit-\"+(102<s?\"inline-\":\"\")+\"box\")+\";\"+o.replace(c,\"-webkit-\"+c)+\";\"+o.replace(c,\"-ms-\"+c+\"box\")+\";\"+o}return o+\";\";case 938:if(45===o.charCodeAt(5))switch(o.charCodeAt(6)){case 105:return c=o.replace(\"-items\",\"\"),\"-webkit-\"+o+\"-webkit-box-\"+c+\"-ms-flex-\"+c+o;case 115:return\"-webkit-\"+o+\"-ms-flex-item-\"+o.replace(x,\"\")+o;default:return\"-webkit-\"+o+\"-ms-flex-line-pack\"+o.replace(\"align-content\",\"\").replace(x,\"\")+o}break;case 973:case 989:if(45!==o.charCodeAt(3)||122===o.charCodeAt(4))break;case 931:case 953:if(!0===A.test(e))return 115===(c=e.substring(e.indexOf(\":\")+1)).charCodeAt(0)?i(e.replace(\"stretch\",\"fill-available\"),t,r,n).replace(\":fill-available\",\":stretch\"):o.replace(c,\"-webkit-\"+c)+o.replace(c,\"-moz-\"+c.replace(\"fill-\",\"\"))+o;break;case 962:if(o=\"-webkit-\"+o+(102===o.charCodeAt(5)?\"-ms-\"+o:\"\")+o,211===r+n&&105===o.charCodeAt(13)&&0<o.indexOf(\"transform\",10))return o.substring(0,o.indexOf(\";\",27)+1).replace(h,\"$1-webkit-$2\")+o}return o}function a(e,t){var r=e.indexOf(1===t?\":\":\"{\"),n=e.substring(0,3!==t?r:10);return r=e.substring(r+1,e.length-1),N(2!==t?n:n.replace(C,\"$1\"),r,t)}function o(e,t){var r=i(t,t.charCodeAt(0),t.charCodeAt(1),t.charCodeAt(2));return r!==t+\";\"?r.replace(S,\" or ($1)\").substring(4):\"(\"+t+\")\"}function s(e,t,r,n,i,a,o,s,c,u){for(var f,d=0,p=t;d<T;++d)switch(f=R[d].call(l,e,p,r,n,i,a,o,s,c,u)){case void 0:case!1:case!0:case null:break;default:p=f}if(p!==t)return p}function c(e){return void 0!==(e=e.prefix)&&(N=null,e?\"function\"!=typeof e?E=1:(E=2,N=e):E=0),c}function l(e,r){var n=e;if(33>n.charCodeAt(0)&&(n=n.trim()),n=[n],0<T){var i=s(-1,r,n,n,P,O,0,0,0,0);void 0!==i&&\"string\"==typeof i&&(r=i)}var a=t(_,n,r,0,0);return 0<T&&void 0!==(i=s(-2,a,n,n,P,O,a.length,0,0,0))&&(a=i),I=0,O=P=1,a}var u=/^\\0+/g,f=/[\\0\\r\\f]/g,d=/: */g,p=/zoo|gra/,h=/([,: ])(transform)/g,m=/,\\r+?/g,g=/([\\t\\r\\n ])*\\f?&/g,y=/@(k\\w+)\\s*(\\S*)\\s*/,v=/::(place)/g,b=/:(read-only)/g,w=/[svh]\\w+-[tblr]{2}/,k=/\\(\\s*(.*)\\s*\\)/g,S=/([\\s\\S]*?);/g,x=/-self|flex-/g,C=/[^]*?(:[rp][el]a[\\w-]+)[^]*/,A=/stretch|:\\s*\\w+\\-(?:conte|avail)/,j=/([^-])(image-set\\()/,O=1,P=1,I=0,E=1,_=[],R=[],T=0,N=null,z=0;return l.use=function e(t){switch(t){case void 0:case null:T=R.length=0;break;default:if(\"function\"==typeof t)R[T++]=t;else if(\"object\"==typeof t)for(var r=0,n=t.length;r<n;++r)e(t[r]);else z=0|!!t}return e},l.set=c,void 0!==e&&c(e),l},l={animationIterationCount:1,borderImageOutset:1,borderImageSlice:1,borderImageWidth:1,boxFlex:1,boxFlexGroup:1,boxOrdinalGroup:1,columnCount:1,columns:1,flex:1,flexGrow:1,flexPositive:1,flexShrink:1,flexNegative:1,flexOrder:1,gridRow:1,gridRowEnd:1,gridRowSpan:1,gridRowStart:1,gridColumn:1,gridColumnEnd:1,gridColumnSpan:1,gridColumnStart:1,msGridRow:1,msGridRowSpan:1,msGridColumn:1,msGridColumnSpan:1,fontWeight:1,lineHeight:1,opacity:1,order:1,orphans:1,tabSize:1,widows:1,zIndex:1,zoom:1,WebkitLineClamp:1,fillOpacity:1,floodOpacity:1,stopOpacity:1,strokeDasharray:1,strokeDashoffset:1,strokeMiterlimit:1,strokeOpacity:1,strokeWidth:1};var u=/^((children|dangerouslySetInnerHTML|key|ref|autoFocus|defaultValue|defaultChecked|innerHTML|suppressContentEditableWarning|suppressHydrationWarning|valueLink|accept|acceptCharset|accessKey|action|allow|allowUserMedia|allowPaymentRequest|allowFullScreen|allowTransparency|alt|async|autoComplete|autoPlay|capture|cellPadding|cellSpacing|challenge|charSet|checked|cite|classID|className|cols|colSpan|content|contentEditable|contextMenu|controls|controlsList|coords|crossOrigin|data|dateTime|decoding|default|defer|dir|disabled|disablePictureInPicture|download|draggable|encType|form|formAction|formEncType|formMethod|formNoValidate|formTarget|frameBorder|headers|height|hidden|high|href|hrefLang|htmlFor|httpEquiv|id|inputMode|integrity|is|keyParams|keyType|kind|label|lang|list|loading|loop|low|marginHeight|marginWidth|max|maxLength|media|mediaGroup|method|min|minLength|multiple|muted|name|nonce|noValidate|open|optimum|pattern|placeholder|playsInline|poster|preload|profile|radioGroup|readOnly|referrerPolicy|rel|required|reversed|role|rows|rowSpan|sandbox|scope|scoped|scrolling|seamless|selected|shape|size|sizes|slot|span|spellCheck|src|srcDoc|srcLang|srcSet|start|step|style|summary|tabIndex|target|title|type|useMap|value|width|wmode|wrap|about|datatype|inlist|prefix|property|resource|typeof|vocab|autoCapitalize|autoCorrect|autoSave|color|inert|itemProp|itemScope|itemType|itemID|itemRef|on|results|security|unselectable|accentHeight|accumulate|additive|alignmentBaseline|allowReorder|alphabetic|amplitude|arabicForm|ascent|attributeName|attributeType|autoReverse|azimuth|baseFrequency|baselineShift|baseProfile|bbox|begin|bias|by|calcMode|capHeight|clip|clipPathUnits|clipPath|clipRule|colorInterpolation|colorInterpolationFilters|colorProfile|colorRendering|contentScriptType|contentStyleType|cursor|cx|cy|d|decelerate|descent|diffuseConstant|direction|display|divisor|dominantBaseline|dur|dx|dy|edgeMode|elevation|enableBackground|end|exponent|externalResourcesRequired|fill|fillOpacity|fillRule|filter|filterRes|filterUnits|floodColor|floodOpacity|focusable|fontFamily|fontSize|fontSizeAdjust|fontStretch|fontStyle|fontVariant|fontWeight|format|from|fr|fx|fy|g1|g2|glyphName|glyphOrientationHorizontal|glyphOrientationVertical|glyphRef|gradientTransform|gradientUnits|hanging|horizAdvX|horizOriginX|ideographic|imageRendering|in|in2|intercept|k|k1|k2|k3|k4|kernelMatrix|kernelUnitLength|kerning|keyPoints|keySplines|keyTimes|lengthAdjust|letterSpacing|lightingColor|limitingConeAngle|local|markerEnd|markerMid|markerStart|markerHeight|markerUnits|markerWidth|mask|maskContentUnits|maskUnits|mathematical|mode|numOctaves|offset|opacity|operator|order|orient|orientation|origin|overflow|overlinePosition|overlineThickness|panose1|paintOrder|pathLength|patternContentUnits|patternTransform|patternUnits|pointerEvents|points|pointsAtX|pointsAtY|pointsAtZ|preserveAlpha|preserveAspectRatio|primitiveUnits|r|radius|refX|refY|renderingIntent|repeatCount|repeatDur|requiredExtensions|requiredFeatures|restart|result|rotate|rx|ry|scale|seed|shapeRendering|slope|spacing|specularConstant|specularExponent|speed|spreadMethod|startOffset|stdDeviation|stemh|stemv|stitchTiles|stopColor|stopOpacity|strikethroughPosition|strikethroughThickness|string|stroke|strokeDasharray|strokeDashoffset|strokeLinecap|strokeLinejoin|strokeMiterlimit|strokeOpacity|strokeWidth|surfaceScale|systemLanguage|tableValues|targetX|targetY|textAnchor|textDecoration|textRendering|textLength|to|transform|u1|u2|underlinePosition|underlineThickness|unicode|unicodeBidi|unicodeRange|unitsPerEm|vAlphabetic|vHanging|vIdeographic|vMathematical|values|vectorEffect|version|vertAdvY|vertOriginX|vertOriginY|viewBox|viewTarget|visibility|widths|wordSpacing|writingMode|x|xHeight|x1|x2|xChannelSelector|xlinkActuate|xlinkArcrole|xlinkHref|xlinkRole|xlinkShow|xlinkTitle|xlinkType|xmlBase|xmlns|xmlnsXlink|xmlLang|xmlSpace|y|y1|y2|yChannelSelector|z|zoomAndPan|for|class|autofocus)|(([Dd][Aa][Tt][Aa]|[Aa][Rr][Ii][Aa]|x)-.*))$/;const f=(d={},function(e){return void 0===d[e]&&(d[e]=(t=e,u.test(t)||111===t.charCodeAt(0)&&110===t.charCodeAt(1)&&t.charCodeAt(2)<91)),d[e];var t});var d,p=r(480),h=r.n(p);function m(){return m=Object.assign||function(e){for(var t=1;t<arguments.length;t++){var r=arguments[t];for(var n in r)Object.prototype.hasOwnProperty.call(r,n)&&(e[n]=r[n])}return e},m.apply(this,arguments)}var g=function(e,t){for(var r=[e[0]],n=0,i=t.length;n<i;n+=1)r.push(t[n],e[n+1]);return r},y=function(e){return null!==e&&\"object\"==typeof e&&\"[object Object]\"===(e.toString?e.toString():Object.prototype.toString.call(e))&&!(0,n.typeOf)(e)},v=Object.freeze([]),b=Object.freeze({});function w(e){return\"function\"==typeof e}function k(e){return e.displayName||e.name||\"Component\"}function S(e){return e&&\"string\"==typeof e.styledComponentId}var x=\"undefined\"!=typeof process&&(process.env.REACT_APP_SC_ATTR||process.env.SC_ATTR)||\"data-styled\",C=\"active\",A=\"data-styled-version\",j=\"5.1.1\",O=\"/*!sc*/\\n\",P=\"undefined\"!=typeof window&&\"HTMLElement\"in window,I=\"boolean\"==typeof SC_DISABLE_SPEEDY&&SC_DISABLE_SPEEDY||\"undefined\"!=typeof process&&(process.env.REACT_APP_SC_DISABLE_SPEEDY||process.env.SC_DISABLE_SPEEDY)||!1,E={},_=function(){return r.nc};function R(e){for(var t=arguments.length,r=new Array(t>1?t-1:0),n=1;n<t;n++)r[n-1]=arguments[n];throw new Error(\"An error occurred. See https://github.com/styled-components/styled-components/blob/master/packages/styled-components/src/utils/errors.md#\"+e+\" for more information.\"+(r.length>0?\" Additional arguments: \"+r.join(\", \"):\"\"))}var T=function(e){var t=document.head,r=e||t,n=document.createElement(\"style\"),i=function(e){for(var t=e.childNodes,r=t.length;r>=0;r--){var n=t[r];if(n&&1===n.nodeType&&n.hasAttribute(x))return n}}(r),a=void 0!==i?i.nextSibling:null;n.setAttribute(x,C),n.setAttribute(A,j);var o=_();return o&&n.setAttribute(\"nonce\",o),r.insertBefore(n,a),n},N=function(){function e(e){var t=this.element=T(e);t.appendChild(document.createTextNode(\"\")),this.sheet=function(e){if(e.sheet)return e.sheet;for(var t=document.styleSheets,r=0,n=t.length;r<n;r++){var i=t[r];if(i.ownerNode===e)return i}R(17)}(t),this.length=0}var t=e.prototype;return t.insertRule=function(e,t){try{return this.sheet.insertRule(t,e),this.length++,!0}catch(e){return!1}},t.deleteRule=function(e){this.sheet.deleteRule(e),this.length--},t.getRule=function(e){var t=this.sheet.cssRules[e];return void 0!==t&&\"string\"==typeof t.cssText?t.cssText:\"\"},e}(),z=function(){function e(e){var t=this.element=T(e);this.nodes=t.childNodes,this.length=0}var t=e.prototype;return t.insertRule=function(e,t){if(e<=this.length&&e>=0){var r=document.createTextNode(t),n=this.nodes[e];return this.element.insertBefore(r,n||null),this.length++,!0}return!1},t.deleteRule=function(e){this.element.removeChild(this.nodes[e]),this.length--},t.getRule=function(e){return e<this.length?this.nodes[e].textContent:\"\"},e}(),M=function(){function e(e){this.rules=[],this.length=0}var t=e.prototype;return t.insertRule=function(e,t){return e<=this.length&&(this.rules.splice(e,0,t),this.length++,!0)},t.deleteRule=function(e){this.rules.splice(e,1),this.length--},t.getRule=function(e){return e<this.length?this.rules[e]:\"\"},e}(),$=function(){function e(e){this.groupSizes=new Uint32Array(512),this.length=512,this.tag=e}var t=e.prototype;return t.indexOfGroup=function(e){for(var t=0,r=0;r<e;r++)t+=this.groupSizes[r];return t},t.insertRules=function(e,t){if(e>=this.groupSizes.length){for(var r=this.groupSizes,n=r.length,i=n;e>=i;)(i<<=1)<0&&R(16,\"\"+e);this.groupSizes=new Uint32Array(i),this.groupSizes.set(r),this.length=i;for(var a=n;a<i;a++)this.groupSizes[a]=0}for(var o=this.indexOfGroup(e+1),s=0,c=t.length;s<c;s++)this.tag.insertRule(o,t[s])&&(this.groupSizes[e]++,o++)},t.clearGroup=function(e){if(e<this.length){var t=this.groupSizes[e],r=this.indexOfGroup(e),n=r+t;this.groupSizes[e]=0;for(var i=r;i<n;i++)this.tag.deleteRule(r)}},t.getGroup=function(e){var t=\"\";if(e>=this.length||0===this.groupSizes[e])return t;for(var r=this.groupSizes[e],n=this.indexOfGroup(e),i=n+r,a=n;a<i;a++)t+=\"\"+this.tag.getRule(a)+O;return t},e}(),D=new Map,F=new Map,L=1,G=function(e){if(D.has(e))return D.get(e);var t=L++;return D.set(e,t),F.set(t,e),t},H=function(e){return F.get(e)},W=function(e,t){t>=L&&(L=t+1),D.set(e,t),F.set(t,e)},B=\"style[\"+x+\"][\"+A+'=\"5.1.1\"]',U=new RegExp(\"^\"+x+'\\\\.g(\\\\d+)\\\\[id=\"([\\\\w\\\\d-]+)\"\\\\].*?\"([^\"]*)'),V=function(e,t,r){for(var n,i=r.split(\",\"),a=0,o=i.length;a<o;a++)(n=i[a])&&e.registerName(t,n)},q=function(e,t){for(var r=t.innerHTML.split(O),n=[],i=0,a=r.length;i<a;i++){var o=r[i].trim();if(o){var s=o.match(U);if(s){var c=0|parseInt(s[1],10),l=s[2];0!==c&&(W(l,c),V(e,l,s[3]),e.getTag().insertRules(c,n)),n.length=0}else n.push(o)}}},Y=P,X={isServer:!P,useCSSOMInjection:!I},K=function(){function e(e,t,r){void 0===e&&(e=X),void 0===t&&(t={}),this.options=m({},X,{},e),this.gs=t,this.names=new Map(r),!this.options.isServer&&P&&Y&&(Y=!1,function(e){for(var t=document.querySelectorAll(B),r=0,n=t.length;r<n;r++){var i=t[r];i&&i.getAttribute(x)!==C&&(q(e,i),i.parentNode&&i.parentNode.removeChild(i))}}(this))}e.registerId=function(e){return G(e)};var t=e.prototype;return t.reconstructWithOptions=function(t){return new e(m({},this.options,{},t),this.gs,this.names)},t.allocateGSInstance=function(e){return this.gs[e]=(this.gs[e]||0)+1},t.getTag=function(){return this.tag||(this.tag=(r=(t=this.options).isServer,n=t.useCSSOMInjection,i=t.target,e=r?new M(i):n?new N(i):new z(i),new $(e)));var e,t,r,n,i},t.hasNameForId=function(e,t){return this.names.has(e)&&this.names.get(e).has(t)},t.registerName=function(e,t){if(G(e),this.names.has(e))this.names.get(e).add(t);else{var r=new Set;r.add(t),this.names.set(e,r)}},t.insertRules=function(e,t,r){this.registerName(e,t),this.getTag().insertRules(G(e),r)},t.clearNames=function(e){this.names.has(e)&&this.names.get(e).clear()},t.clearRules=function(e){this.getTag().clearGroup(G(e)),this.clearNames(e)},t.clearTag=function(){this.tag=void 0},t.toString=function(){return function(e){for(var t=e.getTag(),r=t.length,n=\"\",i=0;i<r;i++){var a=H(i);if(void 0!==a){var o=e.names.get(a),s=t.getGroup(i);if(void 0!==o&&0!==s.length){var c=x+\".g\"+i+'[id=\"'+a+'\"]',l=\"\";void 0!==o&&o.forEach((function(e){e.length>0&&(l+=e+\",\")})),n+=\"\"+s+c+'{content:\"'+l+'\"}'+O}}}return n}(this)},e}(),Z=function(e,t){for(var r=t.length;r;)e=33*e^t.charCodeAt(--r);return e},J=function(e){return Z(5381,e)},Q=/^\\s*\\/\\/.*$/gm;function ee(e){var t,r,n,i=void 0===e?b:e,a=i.options,o=void 0===a?b:a,s=i.plugins,l=void 0===s?v:s,u=new c(o),f=[],d=function(e){var t=\"/*|*/\";function r(t){if(t)try{e(t+\"}\")}catch(e){}}return function(n,i,a,o,s,c,l,u,f,d){switch(n){case 1:if(0===f&&64===i.charCodeAt(0))return e(i+\";\"),\"\";break;case 2:if(0===u)return i+t;break;case 3:switch(u){case 102:case 112:return e(a[0]+i),\"\";default:return i+(0===d?t:\"\")}case-2:i.split(\"/*|*/}\").forEach(r)}}}((function(e){f.push(e)})),p=function(e,n,i){return n>0&&-1!==i.slice(0,n).indexOf(r)&&i.slice(n-r.length,n)!==r?\".\"+t:e};function h(e,i,a,o){void 0===o&&(o=\"&\");var s=e.replace(Q,\"\"),c=i&&a?a+\" \"+i+\" { \"+s+\" }\":s;return t=o,r=i,n=new RegExp(\"\\\\\"+r+\"\\\\b\",\"g\"),u(a||!i?\"\":i,c)}return u.use([].concat(l,[function(e,t,i){2===e&&i.length&&i[0].lastIndexOf(r)>0&&(i[0]=i[0].replace(n,p))},d,function(e){if(-2===e){var t=f;return f=[],t}}])),h.hash=l.length?l.reduce((function(e,t){return t.name||R(15),Z(e,t.name)}),5381).toString():\"\",h}var te=a().createContext(),re=te.Consumer,ne=a().createContext(),ie=(ne.Consumer,new K),ae=ee();function oe(){return(0,i.useContext)(te)||ie}function se(){return(0,i.useContext)(ne)||ae}function ce(e){var t=(0,i.useState)(e.stylisPlugins),r=t[0],n=t[1],o=oe(),c=(0,i.useMemo)((function(){var t=o;return e.sheet?t=e.sheet:e.target&&(t=t.reconstructWithOptions({target:e.target})),e.disableCSSOMInjection&&(t=t.reconstructWithOptions({useCSSOMInjection:!1})),t}),[e.disableCSSOMInjection,e.sheet,e.target]),l=(0,i.useMemo)((function(){return ee({options:{prefix:!e.disableVendorPrefixes},plugins:r})}),[e.disableVendorPrefixes,r]);return(0,i.useEffect)((function(){s()(r,e.stylisPlugins)||n(e.stylisPlugins)}),[e.stylisPlugins]),a().createElement(te.Provider,{value:c},a().createElement(ne.Provider,{value:l},e.children))}var le=function(){function e(e,t){var r=this;this.inject=function(e){e.hasNameForId(r.id,r.name)||e.insertRules(r.id,r.name,ae.apply(void 0,r.stringifyArgs))},this.toString=function(){return R(12,String(r.name))},this.name=e,this.id=\"sc-keyframes-\"+e,this.stringifyArgs=t}return e.prototype.getName=function(){return this.name},e}(),ue=/([A-Z])/g,fe=/^ms-/;function de(e){return e.replace(ue,\"-$1\").toLowerCase().replace(fe,\"-ms-\")}var pe=function(e){return null==e||!1===e||\"\"===e},he=function e(t,r){var n=[];return Object.keys(t).forEach((function(r){if(!pe(t[r])){if(y(t[r]))return n.push.apply(n,e(t[r],r)),n;if(w(t[r]))return n.push(de(r)+\":\",t[r],\";\"),n;n.push(de(r)+\": \"+(i=r,(null==(a=t[r])||\"boolean\"==typeof a||\"\"===a?\"\":\"number\"!=typeof a||0===a||i in l?String(a).trim():a+\"px\")+\";\"))}var i,a;return n})),r?[r+\" {\"].concat(n,[\"}\"]):n};function me(e,t,r){if(Array.isArray(e)){for(var n,i=[],a=0,o=e.length;a<o;a+=1)\"\"!==(n=me(e[a],t,r))&&(Array.isArray(n)?i.push.apply(i,n):i.push(n));return i}return pe(e)?\"\":S(e)?\".\"+e.styledComponentId:w(e)?\"function\"!=typeof(s=e)||s.prototype&&s.prototype.isReactComponent||!t?e:me(e(t),t,r):e instanceof le?r?(e.inject(r),e.getName()):e:y(e)?he(e):e.toString();var s}function ge(e){for(var t=arguments.length,r=new Array(t>1?t-1:0),n=1;n<t;n++)r[n-1]=arguments[n];return w(e)||y(e)?me(g(v,[e].concat(r))):0===r.length&&1===e.length&&\"string\"==typeof e[0]?e:me(g(e,r))}function ye(e,t,r){if(void 0===r&&(r=b),!(0,n.isValidElementType)(t))return R(1,String(t));var i=function(){return e(t,r,ge.apply(void 0,arguments))};return i.withConfig=function(n){return ye(e,t,m({},r,{},n))},i.attrs=function(n){return ye(e,t,m({},r,{attrs:Array.prototype.concat(r.attrs,n).filter(Boolean)}))},i}var ve=function(e){return\"function\"==typeof e||\"object\"==typeof e&&null!==e&&!Array.isArray(e)},be=function(e){return\"__proto__\"!==e&&\"constructor\"!==e&&\"prototype\"!==e};function we(e,t,r){var n=e[r];ve(t)&&ve(n)?ke(n,t):e[r]=t}function ke(e){for(var t=arguments.length,r=new Array(t>1?t-1:0),n=1;n<t;n++)r[n-1]=arguments[n];for(var i=0,a=r;i<a.length;i++){var o=a[i];if(ve(o))for(var s in o)be(s)&&we(e,o[s],s)}return e}var Se=/(a)(d)/gi,xe=function(e){return String.fromCharCode(e+(e>25?39:97))};function Ce(e){var t,r=\"\";for(t=Math.abs(e);t>52;t=t/52|0)r=xe(t%52)+r;return(xe(t%52)+r).replace(Se,\"$1-$2\")}function Ae(e){for(var t=0;t<e.length;t+=1){var r=e[t];if(w(r)&&!S(r))return!1}return!0}var je=function(){function e(e,t){this.rules=e,this.staticRulesId=\"\",this.isStatic=Ae(e),this.componentId=t,this.baseHash=J(t),K.registerId(t)}return e.prototype.generateAndInjectStyles=function(e,t,r){var n=this.componentId;if(this.isStatic&&!r.hash){if(this.staticRulesId&&t.hasNameForId(n,this.staticRulesId))return this.staticRulesId;var i=me(this.rules,e,t).join(\"\"),a=Ce(Z(this.baseHash,i.length)>>>0);if(!t.hasNameForId(n,a)){var o=r(i,\".\"+a,void 0,n);t.insertRules(n,a,o)}return this.staticRulesId=a,a}for(var s=this.rules.length,c=Z(this.baseHash,r.hash),l=\"\",u=0;u<s;u++){var f=this.rules[u];if(\"string\"==typeof f)l+=f;else{var d=me(f,e,t),p=Array.isArray(d)?d.join(\"\"):d;c=Z(c,p+u),l+=p}}var h=Ce(c>>>0);if(!t.hasNameForId(n,h)){var m=r(l,\".\"+h,void 0,n);t.insertRules(n,h,m)}return h},e}(),Oe=(new Set,function(e,t,r){return void 0===r&&(r=b),e.theme!==r.theme&&e.theme||t||r.theme}),Pe=/[!\"#$%&'()*+,./:;<=>?@[\\\\\\]^`{|}~-]+/g,Ie=/(^-|-$)/g;function Ee(e){return e.replace(Pe,\"-\").replace(Ie,\"\")}function _e(e){return\"string\"==typeof e&&!0}var Re=function(e){return Ce(J(e)>>>0)},Te=a().createContext(),Ne=Te.Consumer;function ze(e){var t=(0,i.useContext)(Te),r=(0,i.useMemo)((function(){return function(e,t){return e?w(e)?e(t):Array.isArray(e)||\"object\"!=typeof e?R(8):t?m({},t,{},e):e:R(14)}(e.theme,t)}),[e.theme,t]);return e.children?a().createElement(Te.Provider,{value:r},e.children):null}var Me={};function $e(e,t,r){var n=S(e),o=!_e(e),s=t.displayName,c=void 0===s?function(e){return _e(e)?\"styled.\"+e:\"Styled(\"+k(e)+\")\"}(e):s,l=t.componentId,u=void 0===l?function(e,t){var r=\"string\"!=typeof e?\"sc\":Ee(e);Me[r]=(Me[r]||0)+1;var n=r+\"-\"+Re(r+Me[r]);return t?t+\"-\"+n:n}(t.displayName,t.parentComponentId):l,d=t.attrs,p=void 0===d?v:d,g=t.displayName&&t.componentId?Ee(t.displayName)+\"-\"+t.componentId:t.componentId||u,y=n&&e.attrs?Array.prototype.concat(e.attrs,p).filter(Boolean):p,x=t.shouldForwardProp;n&&e.shouldForwardProp&&(x=x?function(r,n){return e.shouldForwardProp(r,n)&&t.shouldForwardProp(r,n)}:e.shouldForwardProp);var C,A=new je(n?e.componentStyle.rules.concat(r):r,g),j=function(e,t){return function(e,t,r){var n=e.attrs,a=e.componentStyle,o=e.defaultProps,s=e.foldedComponentIds,c=e.shouldForwardProp,l=e.styledComponentId,u=e.target;(0,i.useDebugValue)(l);var d=function(e,t,r){void 0===e&&(e=b);var n=m({},t,{theme:e}),i={};return r.forEach((function(e){var t,r,a,o=e;for(t in w(o)&&(o=o(n)),o)n[t]=i[t]=\"className\"===t?(r=i[t],a=o[t],r&&a?r+\" \"+a:r||a):o[t]})),[n,i]}(Oe(t,(0,i.useContext)(Te),o)||b,t,n),p=d[0],h=d[1],g=function(e,t,r,n){var a=oe(),o=se(),s=e.isStatic&&!t?e.generateAndInjectStyles(b,a,o):e.generateAndInjectStyles(r,a,o);return(0,i.useDebugValue)(s),s}(a,n.length>0,p),y=r,v=h.$as||t.$as||h.as||t.as||u,k=_e(v),S=h!==t?m({},t,{},h):t,x=c||k&&f,C={};for(var A in S)\"$\"!==A[0]&&\"as\"!==A&&(\"forwardedAs\"===A?C.as=S[A]:x&&!x(A,f)||(C[A]=S[A]));return t.style&&h.style!==t.style&&(C.style=m({},t.style,{},h.style)),C.className=Array.prototype.concat(s,l,g!==l?g:null,t.className,h.className).filter(Boolean).join(\" \"),C.ref=y,(0,i.createElement)(v,C)}(C,e,t)};return j.displayName=c,(C=a().forwardRef(j)).attrs=y,C.componentStyle=A,C.displayName=c,C.shouldForwardProp=x,C.foldedComponentIds=n?Array.prototype.concat(e.foldedComponentIds,e.styledComponentId):v,C.styledComponentId=g,C.target=n?e.target:e,C.withComponent=function(e){var n=t.componentId,i=function(e,t){if(null==e)return{};var r,n,i={},a=Object.keys(e);for(n=0;n<a.length;n++)r=a[n],t.indexOf(r)>=0||(i[r]=e[r]);return i}(t,[\"componentId\"]),a=n&&n+\"-\"+(_e(e)?e:Ee(k(e)));return $e(e,m({},i,{attrs:y,componentId:a}),r)},Object.defineProperty(C,\"defaultProps\",{get:function(){return this._foldedDefaultProps},set:function(t){this._foldedDefaultProps=n?ke({},e.defaultProps,t):t}}),C.toString=function(){return\".\"+C.styledComponentId},o&&h()(C,e,{attrs:!0,componentStyle:!0,displayName:!0,foldedComponentIds:!0,shouldForwardProp:!0,self:!0,styledComponentId:!0,target:!0,withComponent:!0}),C}var De=function(e){return ye($e,e)};[\"a\",\"abbr\",\"address\",\"area\",\"article\",\"aside\",\"audio\",\"b\",\"base\",\"bdi\",\"bdo\",\"big\",\"blockquote\",\"body\",\"br\",\"button\",\"canvas\",\"caption\",\"cite\",\"code\",\"col\",\"colgroup\",\"data\",\"datalist\",\"dd\",\"del\",\"details\",\"dfn\",\"dialog\",\"div\",\"dl\",\"dt\",\"em\",\"embed\",\"fieldset\",\"figcaption\",\"figure\",\"footer\",\"form\",\"h1\",\"h2\",\"h3\",\"h4\",\"h5\",\"h6\",\"head\",\"header\",\"hgroup\",\"hr\",\"html\",\"i\",\"iframe\",\"img\",\"input\",\"ins\",\"kbd\",\"keygen\",\"label\",\"legend\",\"li\",\"link\",\"main\",\"map\",\"mark\",\"marquee\",\"menu\",\"menuitem\",\"meta\",\"meter\",\"nav\",\"noscript\",\"object\",\"ol\",\"optgroup\",\"option\",\"output\",\"p\",\"param\",\"picture\",\"pre\",\"progress\",\"q\",\"rp\",\"rt\",\"ruby\",\"s\",\"samp\",\"script\",\"section\",\"select\",\"small\",\"source\",\"span\",\"strong\",\"style\",\"sub\",\"summary\",\"sup\",\"table\",\"tbody\",\"td\",\"textarea\",\"tfoot\",\"th\",\"thead\",\"time\",\"title\",\"tr\",\"track\",\"u\",\"ul\",\"var\",\"video\",\"wbr\",\"circle\",\"clipPath\",\"defs\",\"ellipse\",\"foreignObject\",\"g\",\"image\",\"line\",\"linearGradient\",\"marker\",\"mask\",\"path\",\"pattern\",\"polygon\",\"polyline\",\"radialGradient\",\"rect\",\"stop\",\"svg\",\"text\",\"tspan\"].forEach((function(e){De[e]=De(e)}));var Fe=function(){function e(e,t){this.rules=e,this.componentId=t,this.isStatic=Ae(e)}var t=e.prototype;return t.createStyles=function(e,t,r,n){var i=n(me(this.rules,t,r).join(\"\"),\"\"),a=this.componentId+e;r.insertRules(a,a,i)},t.removeStyles=function(e,t){t.clearRules(this.componentId+e)},t.renderStyles=function(e,t,r,n){K.registerId(this.componentId+e),this.removeStyles(e,r),this.createStyles(e,t,r,n)},e}();function Le(e){for(var t=arguments.length,r=new Array(t>1?t-1:0),n=1;n<t;n++)r[n-1]=arguments[n];var o=ge.apply(void 0,[e].concat(r)),s=\"sc-global-\"+Re(JSON.stringify(o)),c=new Fe(o,s);function l(e){var t=oe(),r=se(),n=(0,i.useContext)(Te),a=(0,i.useRef)(null);null===a.current&&(a.current=t.allocateGSInstance(s));var o=a.current;if(c.isStatic)c.renderStyles(o,E,t,r);else{var u=m({},e,{theme:Oe(e,n,l.defaultProps)});c.renderStyles(o,u,t,r)}return(0,i.useEffect)((function(){return function(){return c.removeStyles(o,t)}}),v),null}return a().memo(l)}function Ge(e){for(var t=arguments.length,r=new Array(t>1?t-1:0),n=1;n<t;n++)r[n-1]=arguments[n];var i=ge.apply(void 0,[e].concat(r)).join(\"\"),a=Re(i);return new le(a,[i,a,\"@keyframes\"])}var He=function(){function e(){var e=this;this._emitSheetCSS=function(){var t=e.instance.toString(),r=_();return\"<style \"+[r&&'nonce=\"'+r+'\"',x+'=\"true\"','data-styled-version=\"5.1.1\"'].filter(Boolean).join(\" \")+\">\"+t+\"</style>\"},this.getStyleTags=function(){return e.sealed?R(2):e._emitSheetCSS()},this.getStyleElement=function(){var t;if(e.sealed)return R(2);var r=((t={})[x]=\"\",t[A]=j,t.dangerouslySetInnerHTML={__html:e.instance.toString()},t),n=_();return n&&(r.nonce=n),[a().createElement(\"style\",m({},r,{key:\"sc-0-0\"}))]},this.seal=function(){e.sealed=!0},this.instance=new K({isServer:!0}),this.sealed=!1}var t=e.prototype;return t.collectStyles=function(e){return this.sealed?R(2):a().createElement(ce,{sheet:this.instance},e)},t.interleaveWithNodeStream=function(e){return R(3)},e}(),We=function(e){var t=a().forwardRef((function(t,r){var n=(0,i.useContext)(Te),o=e.defaultProps,s=Oe(t,n,o);return a().createElement(e,m({},t,{theme:s,ref:r}))}));return h()(t,e),t.displayName=\"WithTheme(\"+k(e)+\")\",t},Be=function(){return(0,i.useContext)(Te)},Ue={StyleSheet:K,masterSheet:ie},Ve=\"5.1.1\";const qe=De},643:(e,t,r)=>{r.g,e.exports=function(e){var t={};function r(n){if(t[n])return t[n].exports;var i=t[n]={i:n,l:!1,exports:{}};return e[n].call(i.exports,i,i.exports,r),i.l=!0,i.exports}return r.m=e,r.c=t,r.d=function(e,t,n){r.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:n})},r.r=function(e){\"undefined\"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:\"Module\"}),Object.defineProperty(e,\"__esModule\",{value:!0})},r.t=function(e,t){if(1&t&&(e=r(e)),8&t)return e;if(4&t&&\"object\"==typeof e&&e&&e.__esModule)return e;var n=Object.create(null);if(r.r(n),Object.defineProperty(n,\"default\",{enumerable:!0,value:e}),2&t&&\"string\"!=typeof e)for(var i in e)r.d(n,i,function(t){return e[t]}.bind(null,i));return n},r.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return r.d(t,\"a\",t),t},r.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},r.p=\"/\",r(r.s=15)}([function(e,t){e.exports=r(196)},function(e,t,r){\"use strict\";r.d(t,\"c\",(function(){return n})),r.d(t,\"e\",(function(){return i})),r.d(t,\"g\",(function(){return a})),r.d(t,\"b\",(function(){return o})),r.d(t,\"i\",(function(){return s})),r.d(t,\"a\",(function(){return c})),r.d(t,\"h\",(function(){return l})),r.d(t,\"f\",(function(){return u})),r.d(t,\"k\",(function(){return f})),r.d(t,\"d\",(function(){return d})),r.d(t,\"j\",(function(){return p}));var n=\"series-nav__inset-container\",i=\"series-nav__header-object\",a=\"'Hiragino Sans',meiryo,Arial\",o=\"series-nav__4col-only\",s=\"\\n@media(max-width: \".concat(\"639px\",\") {\\n  .\").concat(o,\" {\\n    display: none !important;\\n  }\\n}\\n\\n.media-object.wrap .\").concat(o,\" {\\n  display: none !important;\\n}\"),c=\"series-nav__2col-only\",l=\"\\n@media(min-width: \".concat(\"640px\",\") {\\n  .\").concat(c,\" {\\n    display: none !important;\\n  }\\n}\\n\\n.media-object.wrap .\").concat(c,\" {\\n  display: initial !important;\\n}\"),u=\"series-nav-inset__links-container\",f=\"\\n.\".concat(u,\" {\\n  display: grid;\\n  grid-template-columns: 1fr 1fr 1fr 1fr;\\n  grid-gap: 32px 16px;\\n  margin: 32px 0;\\n}\\n\\n@media(max-width: \").concat(\"639px\",\") {\\n  .\").concat(u,\" {\\n    grid-template-columns: 1fr 1fr;\\n  }\\n}\\n\\n.media-object.wrap .\").concat(u,\" {\\n  grid-template-columns: 1fr 1fr;\\n}\"),d=\"series-nav__inset-container-inner\",p=\"\\n.\".concat(d,\" {\\n  margin: 0 auto;\\n}\")},function(e,t){e.exports=r(39)},function(e,t,r){\"use strict\";r.r(t),r.d(t,\"default\",(function(){return b}));var n=r(0),i=r.n(n),a=r(2),o=r.n(a),s=r(1);function c(){var e=p([\"\\n  display: block;\\n  font: bold 18px/1 'Escrow Condensed';\\n  letter-spacing: 0px;\\n  color: #222222;\\n  .edition-japan & {\\n    font: 400 16px/20px \",\";\\n  }\\n\"]);return c=function(){return e},e}function l(){var e=p([\"\\n  display: block;\\n  font: 13px/1 'Retina Narrow';\\n  letter-spacing: 1px;\\n  color: #666666;\\n  text-transform: uppercase;\\n  margin-bottom: 4px;\\n\"]);return l=function(){return e},e}function u(){var e=p([\"\\n  object-fit: cover;\\n  margin-bottom: 16px;\\n\"]);return u=function(){return e},e}function f(){var e=p([\"\\n  text-decoration: none !important;\\n  display: block;\\n  &:hover * {\\n    opacity: 0.7;\\n    text-decoration: none;\\n  }\\n  &:focus {\\n    outline: 3px solid #0080c3;\\n  }\\n\"]);return f=function(){return e},e}function d(){var e=p([\"\"]);return d=function(){return e},e}function p(e,t){return t||(t=e.slice(0)),Object.freeze(Object.defineProperties(e,{raw:{value:Object.freeze(t)}}))}var h=o.a.div(d()),m=o.a.a(f()),g=o.a.img(u()),y=o.a.span(l()),v=o.a.span(c(),s.g);function b(e){var t=e.title,r=void 0===t?\"\":t,n=e.link,a=void 0===n?\"\":n,o=e.media,c=void 0===o?\"\":o,l=e.flashline,u=void 0===l?\"\":l;return r&&a?i.a.createElement(h,{className:\"series-nav__link-container\"},i.a.createElement(m,{className:\"series-nav__link-link\",target:\"_top\",href:a},c&&i.a.createElement(g,{src:c,alt:r,className:\"\".concat(s.b,\" series-nav__link-thumbnail\")}),u&&i.a.createElement(y,{className:\"series-nav__link-flashline\"},u),i.a.createElement(v,{className:\"series-nav__link-title\"},r))):null}},function(e,t,r){\"use strict\";r.r(t),r.d(t,\"default\",(function(){return u}));var n=r(0),i=r.n(n),a=r(2),o=r.n(a),s=r(1);function c(){var e=function(e,t){return t||(t=e.slice(0)),Object.freeze(Object.defineProperties(e,{raw:{value:Object.freeze(t)}}))}([\"\\n  font-size: 16px !important;\\n  line-height: 24px !important;\\n  font-weight: 400;\\n  font-family: Exchange;\\n  margin: 0;\\n  letter-spacing: 0px;\\n  color: #555555;\\n  opacity: 1;\\n  .edition-japan & {\\n    font-family: \",\";\\n  }\\n\"]);return c=function(){return e},e}var l=o.a.p(c(),s.g);function u(e){var t=e.copy,r=void 0===t?\"\":t;return i.a.createElement(\"div\",{className:s.e},i.a.createElement(l,null,r))}},function(e,t,r){\"use strict\";r.r(t);var n=r(0),i=r.n(n),a=r(1);t.default=function(e){var t=e.displayIn2Col,r=void 0!==t&&t,n=e.url,o=void 0===n?\"\":n,s=e.alt,c=void 0===s?\"\":s;if(!o)return null;var l=[a.e,r?\"\":a.b].join(\" \").trim();return i.a.createElement(\"div\",{className:l},i.a.createElement(\"img\",{src:o,alt:c}))}},function(e,t,r){\"use strict\";r.r(t);var n=r(0),i=r.n(n),a=r(3),o=r(1),s=function(e,t){return e.concat(t).replace(/[^\\w]/,\"\").toLowerCase()};t.default=function(e){var t=e.items,r=void 0===t?[]:t;return i.a.createElement(\"div\",{className:o.f},r.length&&r.map((function(e,t){return i.a.createElement(a.default,{title:e.title,link:e.link,media:e.media,flashline:e.flashline||\"\",key:\"link-\".concat(s(e.title,t))})})))}},function(e,t,r){\"use strict\";r.r(t),r.d(t,\"default\",(function(){return u}));var n=r(0),i=r.n(n),a=r(2),o=r.n(a),s=r(1);function c(){var e=function(e,t){return t||(t=e.slice(0)),Object.freeze(Object.defineProperties(e,{raw:{value:Object.freeze(t)}}))}([\"\\n  &&& {\\n    \",\"\\n    \",\"\\n    \",\"\\n  }\\n\\n  &&&:hover {\\n    background-color: rgba(0, 0, 0, 0.1);\\n  }\\n\\n  &&&:focus {\\n    border-color: rgba(0, 0, 0, 0.5);\\n    outline: none;\\n    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 2px;\\n  }\\n\"]);return c=function(){return e},e}var l=o.a.a(c(),\"\\nbackground-color: transparent;\\nborder: 1px solid rgba(0, 0, 0, 0.5);\\nborder-radius: 2px;\\nbox-shadow: none;\\nbox-sizing: border-box;\\n\",\"\\ncolor: rgb(51, 51, 51);\\ncursor: pointer;\\nfont: normal 500 14px Retina, Arial, sans-serif;\\nletter-spacing: 0.5px;\\ntext-decoration: none;\\ntext-transform: uppercase;\\ntransition: all 400ms ease 0s;\\n\",\"\\nalign-items: center;\\ndisplay: inline-flex;\\nline-height: 1.3;\\nmax-width: 300px;\\npadding: 15px 20px;\\n\");function u(e){var t=e.link,r=void 0===t?{}:t;return r&&r.label&&r.url?i.a.createElement(\"div\",{className:s.e},i.a.createElement(l,{target:\"_top\",href:r.url,className:\"btn btn-secondary series-nav__series-link\"},r.label)):null}},function(e,t,r){\"use strict\";r.r(t);var n=r(0),i=r.n(n),a=r(2),o=r.n(a),s=r(1);function c(){var e=function(e,t){return t||(t=e.slice(0)),Object.freeze(Object.defineProperties(e,{raw:{value:Object.freeze(t)}}))}([\"\\n  margin: 24px 0 0;\\n  font: 22px/24px 'Escrow Condensed';\\n  font-weight: 600;\\n  .edition-japan & {\\n    font: 700 19px/21px \",\";\\n  }\\n\"]);return c=function(){return e},e}var l=function(e){var t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:\"\";return i.a.createElement(\"div\",{className:\"series-nav-inset__title-img-container \".concat(s.e)},i.a.createElement(\"img\",{src:e,alt:t}))},u=o.a.h3(c(),s.g);t.default=function(e){var t=e.title,r=void 0===t?\"\":t,n=e.titleImg,a=void 0===n?null:n,o=e.titleImg2Col,c=void 0===o?null:o,f=e.titleFieldsDisplay,d=void 0===f?\"text\":f;if(a){if(c&&\"logotypeMobile\"===d)return function(e,t,r){return i.a.createElement(i.a.Fragment,null,i.a.createElement(\"div\",{className:s.b},l(e,r)),i.a.createElement(\"div\",{className:s.a},l(t,r)))}(a,c,r);if(\"text\"!==d)return l(a,r)}return i.a.createElement(u,null,r)}},function(e,t){e.exports=r(811)},,,,,,function(e,t,r){e.exports=r(16)},function(e,t,r){\"use strict\";r.r(t),r.d(t,\"default\",(function(){return b}));var n=r(0),i=r.n(n),a=r(2),o=r.n(a),s=r(9),c=r(5),l=r(8),u=r(4),f=r(7),d=r(6),p=r(1);function h(){var e=g([\"\\n  margin: 0 auto;\\n\\n  & .\",\" {\\n    margin-top: 16px;\\n    line-height: 0;\\n  }\\n\"]);return h=function(){return e},e}function m(){var e=g([\"\\n  box-sizing: border-box;\\n  border: solid #cccccc;\\n  border-width: 1px 0;\\n  background-color: #ffffff;\\n\\n  & img {\\n    max-width: 100%;\\n  }\\n\"]);return m=function(){return e},e}function g(e,t){return t||(t=e.slice(0)),Object.freeze(Object.defineProperties(e,{raw:{value:Object.freeze(t)}}))}var y=o.a.div(m()),v=o.a.div(h(),p.e);function b(e){var t=e.data,r=e.items,n=void 0===r?[]:r,a=\"series-nav-\".concat(Object(s.nanoid)(8)),o=t.seriesLink,h=void 0===o?{}:o;return i.a.createElement(y,{id:a,className:p.c},i.a.createElement(\"style\",null,p.i,p.h,p.k,p.j),i.a.createElement(\"div\",{className:p.d},i.a.createElement(v,null,(t.headerImg||{}).url&&i.a.createElement(c.default,{displayIn2Col:t.headerImg.displayIn2Col,url:t.headerImg.url,alt:t.headerImg.alt||t.title}),i.a.createElement(l.default,{title:t.title,titleImg:t.titleImg,titleImg2Col:t.titleImg2Col,titleFieldsDisplay:t.titleFieldsDisplay}),t.description&&i.a.createElement(u.default,{copy:t.description}),h.label&&h.url&&i.a.createElement(f.default,{link:h})),n.length>0&&i.a.createElement(d.default,{items:n})))}}])},957:(e,t,r)=>{\"use strict\";var n=r(643),i=r.n(n);ReactDOM.hydrate(React.createElement(i(),{data:{description:\"\",navigationType:\"inline\",title:\"The New Student Debt Crisis\",titleFieldsDisplay:\"text\",titleImg:\"\",titleImg2Col:\"\",headerImg:{url:\"\",displayIn2Col:!1},seriesLink:{url:\"\",label:\"\"}},items:[{title:\"‘Financially Hobbled for Life’: The Elite Master’s Degrees That Don’t Pay Off\",media:\"https://images.wsj.net/im-365532/m?width=200&size=1.5\",link:\"https://www.wsj.com/articles/financially-hobbled-for-life-the-elite-masters-degrees-that-dont-pay-off-11625752773?mod=series_graddebt\"},{title:\"How Baylor Steered Lower-Income Parents to Debt They Couldn’t Afford\",media:\"https://images.wsj.net/im-415276/m?width=200&size=1.5\",link:\"https://www.wsj.com/articles/baylor-university-college-debt-parent-plus-loans-11634138239?mod=series_graddebt\"},{title:\"NYU Is Top-Ranked—In Loans That Alumni and Parents Struggle to Repay\",media:\"https://images.wsj.net/im-452195/m?width=200&size=1.5\",link:\"https://www.wsj.com/articles/nyu-college-graduate-parent-student-loans-11639618241?mod=series_graddebt\"},{title:\"Some Professional Degrees Leave Students With High Debt but Without High Salaries\",flashline:\"\",media:\"https://images.wsj.net/im-443320/m?width=200&size=1.5\",link:\"https://www.wsj.com/articles/some-professional-degrees-leave-students-with-high-debt-but-without-high-salaries-11638354602?mod=series_graddebt\"},{title:\"USC Pushed a $115,000 Online Degree. Graduates Got Low Salaries, Huge Debts.\",media:\"https://images.wsj.net/im-431117/m?width=200&size=1.5\",link:\"https://www.wsj.com/articles/usc-online-social-work-masters-11636435900?mod=series_graddebt\"},{title:\"Law School Loses Luster as Debts Mount and Salaries Stagnate\",media:\"https://images.wsj.net/im-379119/m?width=200&size=1.5\",link:\"https://www.wsj.com/articles/law-school-student-debt-low-salaries-university-miami-11627991855?mod=series_graddebt\"},{title:\"Why Washington Won’t Fix Student Debt Plans That Overload Families\",media:\"https://images.wsj.net/im-447855/m?width=200&size=1.5\",link:\"https://www.wsj.com/articles/college-university-student-debt-parent-grad-plus-loans-congress-school-borrowing-11638930489?mod=series_graddebt\"},{title:\"Why Student Debt Keeps Growing—Even When Borrowers Keep Paying\",media:\"https://images.wsj.net/im-460301/m?width=200&size=1.5\",link:\"https://www.wsj.com/articles/how-your-student-debt-keeps-growingeven-when-you-keep-paying-11640994313?mod=series_graddebt\"}],uuid:\"1fbf704877651d629e76befc0ae01dff\"}),document.querySelector('[data-uuid=\"1fbf704877651d629e76befc0ae01dff\"]'))},196:e=>{\"use strict\";e.exports=window.React},811:(e,t,r)=>{\"use strict\";r.r(t),r.d(t,{customAlphabet:()=>o,customRandom:()=>a,nanoid:()=>s,random:()=>i,urlAlphabet:()=>n});let n=\"ModuleSymbhasOwnPr-0123456789ABCDEFGHNRVfgctiUvz_KqYTJkLxpZXIjQW\",i=e=>crypto.getRandomValues(new Uint8Array(e)),a=(e,t,r)=>{let n=(2<<Math.log(e.length-1)/Math.LN2)-1,i=-~(1.6*n*t/e.length);return()=>{let a=\"\";for(;;){let o=r(i),s=i;for(;s--;)if(a+=e[o[s]&n]||\"\",a.length===t)return a}}},o=(e,t)=>a(e,t,i),s=(e=21)=>{let t=\"\",r=crypto.getRandomValues(new Uint8Array(e));for(;e--;){let n=63&r[e];t+=n<36?n.toString(36):n<62?(n-26).toString(36).toUpperCase():n<63?\"_\":\"-\"}return t}}},t={};function r(n){var i=t[n];if(void 0!==i)return i.exports;var a=t[n]={exports:{}};return e[n](a,a.exports,r),a.exports}r.n=e=>{var t=e&&e.__esModule?()=>e.default:()=>e;return r.d(t,{a:t}),t},r.d=(e,t)=>{for(var n in t)r.o(t,n)&&!r.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},r.g=function(){if(\"object\"==typeof globalThis)return globalThis;try{return this||new Function(\"return this\")()}catch(e){if(\"object\"==typeof window)return window}}(),r.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),r.r=e=>{\"undefined\"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:\"Module\"}),Object.defineProperty(e,\"__esModule\",{value:!0})},r(957);var n=r(643);window[\"1fbf704877651d629e76befc0ae01dff\"]=n})(); });\n})();\n</script>"
+        ],
+        "subType": "series-navigation"
+      }
+    },
+    "inset_type": "dynamic",
+    "properties": {
+      "url": "https://asset.wsj.net/wsjnewsgraphics/projects/narrator/8dbeede2-ce39-440b-a5fd-9853797fb28d.json",
+      "responsive": { "layout": "inline" },
+      "scope": { "scope": ["web", "mobileapps"] }
+    },
+    "ref": "inset-3"
+  },
+  {
+    "type": "paragraph",
+    "content": [
+      { "type": "emphasis", "emphasis": "BOLD", "text": "Write to ", "properties": {} },
+      { "text": "Andrew Restuccia at ", "properties": {} },
+      {
+        "type": "link",
+        "id": "i13-SB11854193889278254401904588588253273435898",
+        "uri": "mailto:andrew.restuccia@wsj.com",
+        "variant": "email",
+        "link_type": "EXTERNAL",
+        "ref": "i13-SB11854193889278254401904588588253273435898",
+        "text": "andrew.restuccia@wsj.com",
+        "properties": {}
+      },
+      { "text": " and Gabriel T. Rubin at ", "properties": {} },
+      {
+        "type": "link",
+        "id": "i14-SB11854193889278254401904588588253273435898",
+        "uri": "mailto:gabriel.rubin@wsj.com",
+        "variant": "email",
+        "link_type": "EXTERNAL",
+        "ref": "i14-SB11854193889278254401904588588253273435898",
+        "text": "gabriel.rubin@wsj.com",
+        "properties": {}
+      }
+    ],
+    "properties": {}
+  }
+]

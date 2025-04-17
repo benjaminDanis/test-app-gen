@@ -1,0 +1,18 @@
+name: Pull Request
+concurrency:
+  group: ${{ github.head_ref || github.ref_name }}-${{ github.workflow }}
+  cancel-in-progress: true
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, labeled]
+  merge_group:
+
+jobs:
+  pr_title_naming_convention:
+    name: Enforce conventional commit PR titles
+    uses: ./.github/workflows/pr-title-naming-convention.yml
+
+  lint_and_test:
+    name: Lint and Test
+    uses: ./.github/workflows/coding-standards.yml

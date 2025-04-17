@@ -1,0 +1,17 @@
+{
+  "platform": "nodejs",
+  "tags": {
+    "default": {
+      "owner": "spa@dowjones.com",
+      "bu": "djcs",
+      "product": "wsj",
+      "component": "web",
+      "environment": "dev",
+      "appid": "djcs_spa_web"
+    },
+    "prod": {
+      "environment": "prod"
+    }
+  },
+  "redis": true
+}

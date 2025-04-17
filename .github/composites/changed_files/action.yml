@@ -1,0 +1,64 @@
+name: "changed files"
+description: "group changed files"
+inputs:
+  ref:
+    description: "ref used to compare changes against main branch"
+    required: false
+    default: "HEAD"
+outputs:
+  yamls:
+    description: "modified yaml files"
+    value: ${{ steps.group_files.outputs.yamls }}
+  markdowns:
+    description: "modified markdown files"
+    value: ${{ steps.group_files.outputs.markdowns }}
+  packages:
+    description: "array of modified packages"
+    value: ${{ steps.group_files.outputs.packages }}
+
+runs:
+  using: "composite"
+  steps:
+    - shell: bash
+      run: |
+        git fetch --no-tags --prune --depth=2 origin main
+        git diff --name-only --diff-filter=d origin/main ${{ inputs.ref }} > changes.txt
+        cat changes.txt
+
+    - uses: actions/github-script@v7
+      id: group_files
+      with:
+        result-encoding: string
+        script: |
+          const fs = require('fs');
+          let allFileContents = fs.readFileSync('changes.txt', 'utf-8');
+          allFileContents = allFileContents
+          .split(/\r?\n/)                                                      // Split file content by lines
+          .slice(0, -1)                                                        // Remove last empty value
+
+          const markdowns = allFileContents
+          .filter(line => line.endsWith('.md') && !line.includes('coverage'))  // Obtaining md files
+          .filter(line => !line.includes('CHANGELOG'))                         // Skip changelog files
+          .join(' ')
+
+          core.debug(markdowns)
+          core.setOutput('markdowns', markdowns)
+
+          const yamls = allFileContents
+          .filter(line => !line.includes('.github') && !line.includes('coverage'))
+          .filter(line => line.endsWith('.yml') || line.includes('yaml'))
+          .join(' ')
+
+          core.debug(yamls)
+          core.setOutput('yamls', yamls)
+
+          let packages = allFileContents
+          .filter(line => line.startsWith('packages/'))
+          .map(line => line.split('/')[1])
+
+          packages = packages.filter((item, pos) => {                            // filter repeated values
+              return packages.indexOf(item) == pos;
+          }).filter(item => item != null && item.length > 0)
+
+          core.debug(JSON.stringify(packages))
+          core.setOutput('packages', JSON.stringify(packages))
