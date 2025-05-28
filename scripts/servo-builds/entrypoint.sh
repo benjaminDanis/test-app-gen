@@ -31,8 +31,9 @@ echo "BRANCH: $BRANCH"
 # test secrets
 echo "fake servo token for test: $SERVO_TOKEN"
 
+# test curl servo request
+SERVO_RESPONSE=$(curl --location "https://next.onservo.com/api/sources/$GITHUB_DOMAIN/$GITHUB_OWNER/$GITHUB_REPO/builds" \
+  --header "token: $SERVO_TOKEN" \
+  --silent | jq '.')
 
-# test curl and ping servo stack
-# curl --location 'https://next.onservo.com/api/sources/github.com/benjaminDanis/test-app-gen/builds' \
-# --header 'token: $SERVO_TOKEN' \
-# | jq '.'
+echo "SERVO RESPONSE: $SERVO_RESPONSE"
