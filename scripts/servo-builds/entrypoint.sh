@@ -30,7 +30,12 @@ echo "BRANCH: $BRANCH"
 
 # test curl servo request
 SERVO_RESPONSE=$(curl --location "https://next.onservo.com/api/sources/$GITHUB_DOMAIN/$GITHUB_OWNER/$GITHUB_REPO/builds" \
+  --method "POST" \
   --header "token: $SERVO_TOKEN" \
+  --header "Content-Type: application/json" \
+  --data-raw "{
+    \"handle\": \"$COMMIT_SHA\"
+  }" \
   --silent | jq '.')
 
 echo "SERVO RESPONSE: $SERVO_RESPONSE"
