@@ -28,6 +28,9 @@ echo "COMMIT SHA: $COMMIT_SHA"
 BRANCH=$(echo "$EVENT_PAYLOAD" | jq -r '.ref' | sed 's|refs/heads/||')
 echo "BRANCH: $BRANCH"
 
+# test secrets
+echo "fake servo token for test: $SERVO_TOKEN"
+
 
 # test curl and ping servo stack
 # curl --location 'https://next.onservo.com/api/sources/github.com/benjaminDanis/test-app-gen/builds' \
