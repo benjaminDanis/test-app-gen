@@ -19,3 +19,12 @@ jobs:
           echo "Workflow: ${{ github.workflow }}"
           echo "Run ID: ${{ github.run_id }}"
           echo "Run Number: ${{ github.run_number }}"
+  ping_servo:
+    needs: dump_payload
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Servo
+        env:
+          SERVO_TOKEN: ${{ secrets.SERVO_TOKEN }}
+          EVENT_PAYLOAD: ${{ toJson(github.event) }}
+        run: bash scripts/servo-builds/entrypoint.sh
