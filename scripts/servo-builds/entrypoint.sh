@@ -29,8 +29,8 @@ BRANCH=$(echo "$EVENT_PAYLOAD" | jq -r '.ref' | sed 's|refs/heads/||')
 echo "BRANCH: $BRANCH"
 
 # test curl servo request
-SERVO_RESPONSE=$(curl --location "https://next.onservo.com/api/sources/$GITHUB_DOMAIN/$GITHUB_OWNER/$GITHUB_REPO/builds" \
-  --method "POST" \
+SERVO_RESPONSE=$(curl --request POST \
+  --location "https://next.onservo.com/api/sources/$GITHUB_DOMAIN/$GITHUB_OWNER/$GITHUB_REPO/builds" \
   --header "token: $SERVO_TOKEN" \
   --header "Content-Type: application/json" \
   --data-raw "{
