@@ -1,19 +1,25 @@
 name: Servo Build
-
 on:
   push:
     branches: ['test', 'develop']
-
 jobs:
   servo_build:
     runs-on: ubuntu-latest
     steps:
+      - name: Log Event Context
+        run: |
+          echo "Event: ${{ github.event_name }}"
+          echo "Ref: ${{ github.ref }}"
+          echo "SHA: ${{ github.sha }}"
+          echo "Actor: ${{ github.actor }}"
+          echo "Repo: ${{ github.repository }}"
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Start Build
+      - name: Start Servo Build
         env:
+          SERVO_TOKEN_HANDLE: ${{ vars.SERVO_TOKEN_HANDLE }}
           SERVO_TOKEN: ${{ secrets.SERVO_TOKEN }}
           EVENT_PAYLOAD: ${{ toJson(github.event) }}
           GITHUB_DOMAIN_URL: ${{ github.server_url }}
