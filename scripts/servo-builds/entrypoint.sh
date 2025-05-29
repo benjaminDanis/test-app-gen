@@ -13,10 +13,10 @@ echo "GitHub Owner: $GITHUB_OWNER"
 echo "GitHub Repo: $GITHUB_REPO"
 
 # create the servo path
-SERVO_API_BASE_URL="https://next.onservo.com/api"
-SERVO_API_REQUEST_PATH="/sources/$GITHUB_DOMAIN/$GITHUB_OWNER/$GITHUB_REPO/builds"
-$SERVO_API_REQUEST_URL="${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}"
-echo "Servo API Request Path: $SERVO_API_REQUEST_PATH"
+# SERVO_API_BASE_URL="https://next.onservo.com/api"
+# SERVO_API_REQUEST_PATH="/sources/$GITHUB_DOMAIN/$GITHUB_OWNER/$GITHUB_REPO/builds"
+# $SERVO_API_REQUEST_URL="${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}"
+# echo "Servo API Request Path: $SERVO_API_REQUEST_PATH"
 
 echo "=========================="
 echo "=========================="
