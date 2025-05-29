@@ -19,7 +19,9 @@ $SERVO_API_REQUEST_URL="${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}"
 echo "Servo API Request Path: $SERVO_API_REQUEST_PATH"
 
 echo "=========================="
+echo "=========================="
 echo $EVENT_PAYLOAD
+echo "=========================="
 echo "=========================="
 
 
