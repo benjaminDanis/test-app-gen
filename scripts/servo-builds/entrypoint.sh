@@ -38,8 +38,6 @@ RESPONSE=$(curl --location "${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}" \
   --request "GET" \
   --header "token: $SERVO_TOKEN")
 
-echo $ERSPONSE
-
 echo "Servo Response: $RESPONSE"  | jq '.'
 
 # test curl servo request
