@@ -23,10 +23,6 @@ check_token_validity()
   local http_status=$(echo "$http_response" | tr -d '\n' | sed -e 's/.*HTTPSTATUS://')
   local http_body=$(echo "$http_response" | sed -e 's/HTTPSTATUS\:.*//g')
 
-  echo "::group::Servo Token Metadata"
-  echo "$http_body" | jq '.' || echo "$http_body"
-  echo "::endgroup::"
-
   # Parse expiration timestamp (in milliseconds)
   local expires_at_ms=$(echo "$http_body" | jq -r '.expiresAt')
   local expires_at_s=$((expires_at_ms / 1000))
@@ -48,6 +44,7 @@ check_token_validity()
   echo "Time left (days): $time_left_days"
   echo "::endgroup::"
 
+  echo "::group::Servo Token Validation"
   if (( time_left <= 0 )); then
     echo "❌ Token is expired."
     echo "::endgroup::"
