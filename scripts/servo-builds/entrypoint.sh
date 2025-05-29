@@ -33,10 +33,10 @@ EOF
 
 # get builds to test URL
 RESPONSE=$(curl --location "${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}" \
-  --request GET \
-  --header "token: $SERVO_TOKEN" | jq '.')
+  --request "GET" \
+  --header "token: $SERVO_TOKEN")
 
-echo "Servo Response: $RESPONSE"
+echo "Servo Response: $RESPONSE"  | jq '.'
 
 # test curl servo request
 # HTTP_RESPONSE=$(curl --write-out "HTTPSTATUS:%{http_code}" \
