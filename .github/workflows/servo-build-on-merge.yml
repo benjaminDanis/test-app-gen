@@ -1,0 +1,21 @@
+name: Servo Build on Merge
+
+on:
+  push:
+    branches: ['test']
+
+jobs:
+  build_request:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Test Servo
+        env:
+          SERVO_TOKEN: ${{ secrets.SERVO_TOKEN }}
+          EVENT_PAYLOAD: ${{ toJson(github.event) }}
+          GITHUB_DOMAIN_URL: ${{ github.server_url }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: bash scripts/servo-builds/entrypoint.sh
