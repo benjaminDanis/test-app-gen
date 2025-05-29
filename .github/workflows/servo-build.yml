@@ -1,0 +1,29 @@
+name: Servo Build
+
+on:
+  pull_request:
+    branches: ['test']
+    types: ['closed']
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to deploy'
+        required: false
+        default: 'test'
+
+jobs:
+  servo_build_on_merge:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Start Build
+        env:
+          SERVO_TOKEN: ${{ secrets.SERVO_TOKEN }}
+          EVENT_PAYLOAD: ${{ toJson(github.event) }}
+          GITHUB_DOMAIN_URL: ${{ github.server_url }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: bash scripts/servo-builds/entrypoint.sh
