@@ -25,13 +25,14 @@ BRANCH=$(echo "$EVENT_PAYLOAD" | jq -r '.ref' | sed 's|refs/heads/||')
 
 echo "Building SHA $COMMIT_SHA from branch $BRANCH"
 
-read -r -d '' PAYLOAD <<EOF
+PAYLOAD=$(cat <<EOF
 {
   "handle": "$COMMIT_SHA"
 }
 EOF
+)
 
-# echo "Create request payload: $PAYLOAD"
+echo "Create request payload: $PAYLOAD"
 
 # get builds to test URL
 RESPONSE=$(curl --location "${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}" \
