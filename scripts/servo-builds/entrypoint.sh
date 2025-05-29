@@ -31,10 +31,14 @@ read -r -d '' PAYLOAD <<EOF
 }
 EOF
 
+echo "Create request payload: $PAYLOAD"
+
 # get builds to test URL
 RESPONSE=$(curl --location "${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}" \
   --request "GET" \
   --header "token: $SERVO_TOKEN")
+
+echo $ERSPONSE
 
 echo "Servo Response: $RESPONSE"  | jq '.'
 
