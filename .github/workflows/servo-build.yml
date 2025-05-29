@@ -1,4 +1,4 @@
-name: Servo Build on Merge
+name: Servo Build
 
 on:
   pull_request:
