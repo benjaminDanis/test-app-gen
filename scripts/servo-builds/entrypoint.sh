@@ -25,11 +25,11 @@ BRANCH=$(echo "$EVENT_PAYLOAD" | jq -r '.ref' | sed 's|refs/heads/||')
 
 echo "Building SHA $COMMIT_SHA from branch $BRANCH"
 
-# read -r -d '' PAYLOAD <<EOF
-# {
-#   "handle": "$COMMIT_SHA"
-# }
-# EOF
+read -r -d '' PAYLOAD <<EOF
+{
+  "handle": "$COMMIT_SHA"
+}
+EOF
 
 # echo "Create request payload: $PAYLOAD"
 
