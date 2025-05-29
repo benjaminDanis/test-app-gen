@@ -1,19 +1,11 @@
 name: Servo Build
 
 on:
-  pull_request:
-    branches: ['test']
-    types: ['closed']
-  workflow_dispatch:
-    inputs:
-      branch:
-        description: 'Branch to deploy'
-        required: false
-        default: 'test'
+  push:
+    branches: ['test', 'develop']
 
 jobs:
   servo_build:
-    # if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
