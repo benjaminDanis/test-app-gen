@@ -32,7 +32,7 @@ read -r -d '' PAYLOAD <<EOF
 EOF
 
 # get builds to test URL
-RESPONSE=$(curl --location "${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}"
+RESPONSE=$(curl --location "${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}" \
   --request GET \
   --header "token: $SERVO_TOKEN" | jq '.')
 

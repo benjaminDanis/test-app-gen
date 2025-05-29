@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Test Servo
+      - name: Make Build Request
         env:
           SERVO_TOKEN: ${{ secrets.SERVO_TOKEN }}
           EVENT_PAYLOAD: ${{ toJson(github.event) }}
