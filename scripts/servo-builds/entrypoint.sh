@@ -6,10 +6,13 @@ SEVEN_DAYS_IN_SECONDS=$((7 * 24 * 60 * 60))
 
 check_token_validity()
 {
-  # check if token is expired.
-  # if it is, emit a clear error message and exit.
+  echo "::group::Validating Servo Token"
+
+  # Check if token is expired.
   local servo_api_request_path="/tokens/$SERVO_TOKEN_HANDLE"
   local servo_api_request_url="${SERVO_API_BASE_URL}${servo_api_request_path}"
+
+  echo "URL: $servo_api_request_url"
 
   local http_response=$(curl --write-out "HTTPSTATUS:%{http_code}" \
     --silent --show-error --request "GET" \
@@ -20,35 +23,44 @@ check_token_validity()
   local http_status=$(echo "$http_response" | tr -d '\n' | sed -e 's/.*HTTPSTATUS://')
   local http_body=$(echo "$http_response" | sed -e 's/HTTPSTATUS\:.*//g')
 
+  echo "::group::Servo Token Metadata"
+  echo "$http_body" | jq '.' || echo "$http_body"
+  echo "::endgroup::"
+
   # Parse expiration timestamp (in milliseconds)
   local expires_at_ms=$(echo "$http_body" | jq -r '.expiresAt')
   local expires_at_s=$((expires_at_ms / 1000))
-
   local now=$(date +%s)
 
-  # Set buffer window (e.g., 7 days = 604800 seconds)
+  # Set buffer window (default 7 days = 604800 seconds)
   local buffer_seconds_str=${SERVO_TOKEN_EXPIRY_BUFFER_SECONDS:-$SEVEN_DAYS_IN_SECONDS}
-  # Ensure buffer_seconds is an integer
-  buffer_seconds=$((buffer_seconds_str))
+  local buffer_seconds=$(( buffer_seconds_str ))
 
   # Compute time until expiry
-  time_left=$((expires_at_s - now))
-  time_left_days=$((time_left / (24 * 60 * 60)))
+  local time_left=$((expires_at_s - now))
+  local time_left_days=$((time_left / (24 * 60 * 60)))
 
-  echo "Token expires in $time_left_days days."
+  echo "::group::Token Expiry Check"
+  echo "Current time (s): $now"
+  echo "Expiry time (s):  $expires_at_s"
+  echo "Buffer window (s): $buffer_seconds"
+  echo "Time left (s):    $time_left"
+  echo "Time left (days): $time_left_days"
+  echo "::endgroup::"
 
   if (( time_left <= 0 )); then
     echo "❌ Token is expired."
+    echo "::endgroup::"
     return 1
   elif (( time_left <= buffer_seconds )); then
-    echo "⚠️  Token is expiring soon. Please rotate the token in order to avoid service disruption."
-    # TODO: send a slack message if possible (phase II)
+    echo "⚠️  Token is expiring soon. Automated builds will fail after token expires."
+    echo "::endgroup::"
     return 2
   else
     echo "✅ Token is valid."
+    echo "::endgroup::"
     return 0
   fi
-
 }
 
 trigger_build()
