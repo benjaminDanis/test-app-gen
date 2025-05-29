@@ -15,41 +15,40 @@ echo "GitHub Repo: $GITHUB_REPO"
 # create the servo path
 SERVO_API_BASE_URL="https://next.onservo.com/api"
 SERVO_API_REQUEST_PATH="/sources/$GITHUB_DOMAIN/$GITHUB_OWNER/$GITHUB_REPO/builds"
+$SERVO_API_REQUEST_URL="${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}"
 echo "Servo API Request Path: $SERVO_API_REQUEST_PATH"
 
-# get servo parameters
+echo "=========================="
+echo $EVENT_PAYLOAD
+echo "=========================="
+
+
 
 # get the commiit sha + branch
-COMMIT_SHA=$(echo "$EVENT_PAYLOAD" | jq -r '.head_commit.id')
-BRANCH=$(echo "$EVENT_PAYLOAD" | jq -r '.ref' | sed 's|refs/heads/||')
+# COMMIT_SHA=$(echo "$EVENT_PAYLOAD" | jq -r '.head_commit.id')
+# BRANCH=$(echo "$EVENT_PAYLOAD" | jq -r '.ref' | sed 's|refs/heads/||')
 
-echo "Building SHA $COMMIT_SHA from branch $BRANCH"
+# echo "Building SHA $COMMIT_SHA from branch $BRANCH"
 
-PAYLOAD=$(cat <<EOF
-{
-  "handle": "$COMMIT_SHA"
-}
-EOF
-)
+# PAYLOAD=$(cat <<EOF
+# {
+#   "handle": "$COMMIT_SHA"
+# }
+# EOF
+# )
 
-echo "Create request payload: $PAYLOAD"
+# echo "Create request payload: $PAYLOAD"
 
-# get builds to test URL
-RESPONSE=$(curl --location "${SERVO_API_BASE_URL}${SERVO_API_REQUEST_PATH}" \
-  --request "GET" \
-  --header "token: $SERVO_TOKEN")
-
-echo "Servo Response: $RESPONSE"
-
-# test curl servo request
+# # get builds to test URL
+# echo "Sending build request to Servo API: $SERVO_API_REQUEST_URL"
 # HTTP_RESPONSE=$(curl --write-out "HTTPSTATUS:%{http_code}" \
 #   --silent --show-error --request "$METHOD" \
-#   --location "https://next.onservo.com/api/$SERVO_API_REQUEST_PATH" \
+#   --location "$SERVO_API_REQUEST_URL" \
 #   --header "token: $SERVO_TOKEN" \
 #   --header "Content-Type: application/json" \
 #   --data "$PAYLOAD")
 
-# response data
+# # response data
 # HTTP_STATUS=$(echo "$HTTP_RESPONSE" | tr -d '\n' | sed -e 's/.*HTTPSTATUS://')
 # HTTP_BODY=$(echo "$HTTP_RESPONSE" | sed -e 's/HTTPSTATUS\:.*//g')
 
@@ -59,5 +58,5 @@ echo "Servo Response: $RESPONSE"
 # SERVO_RESPONSE_COMMIT_AUTHOR=$(echo "$SERVO_RESPONSE" | jq -r '.commit.author')
 # SERVO_RESPONSE_STATUS=$(echo "$SERVO_RESPONSE" | jq -r '.status')
 
-# Log and exit based on status
+# # Log and exit based on status
 # echo "$METHOD /api/sources/$GITHUB_DOMAIN/$GITHUB_OWNER/$GITHUB_REPO/builds status: $HTTP_STATUS"
