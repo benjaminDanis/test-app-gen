@@ -43,7 +43,7 @@ echo "::endgroup::"
 
 # make the Servo API request for creating a build
 HTTP_RESPONSE=$(curl --write-out "HTTPSTATUS:%{http_code}" \
-  --silent --show-error --request "$METHOD" \
+  --silent --show-error --request "POST" \
   --location "$SERVO_API_REQUEST_URL" \
   --header "token: $SERVO_TOKEN" \
   --header "Content-Type: application/json" \
